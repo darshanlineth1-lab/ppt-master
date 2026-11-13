@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+    <marker id="arGrey" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="10" refX="12" refY="5" orient="auto">
+      <polygon points="0,0 14,5 0,10" fill="#7F93A8"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/globe" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Electromagnetic Spectrum</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="def-spectrum" data-pptx-bounds="80 205 1080 134">
+    <rect x="80" y="205" width="1080" height="134" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="108" y="246" fill="#2F3B4A">The <tspan font-weight="bold" fill="#2C6C9E">electromagnetic spectrum</tspan> is the orderly arrangement of electromagnetic waves<tspan x="108" dy="34">according to wavelength or frequency. All of them travel in vacuum at the speed <tspan font-style="italic">c</tspan>;</tspan><tspan x="108" dy="34">they differ only in wavelength and frequency, which are related by <tspan font-style="italic">c = νλ</tspan>.</tspan></text>
+  </g>
+
+  <g id="spectrum-chart" data-pptx-bounds="80 356 1080 268">
+    <rect x="80" y="356" width="1080" height="268" rx="16" fill="#FFFFFF" stroke="#CFE6F7" stroke-width="1.5"/>
+    <path d="M100 421.8 L102 419.6 L104 417.5 L106 415.4 L108 413.4 L110 411.4 L112 409.7 L114 408.0 L116 406.5 L118 405.2 L120 404.1 L122 403.2 L124 402.6 L126 402.2 L128 402.0 L130 402.1 L132 402.5 L134 403.1 L136 404.0 L138 405.1 L140 406.5 L142 408.1 L144 409.9 L146 412.0 L148 414.1 L150 416.5 L152 418.9 L154 421.4 L156 424.0 L158 426.6 L160 429.2 L162 431.7 L164 434.1 L166 436.4 L168 438.5 L170 440.4 L172 442.1 L174 443.5 L176 444.6 L178 445.4 L180 445.9 L182 446.0 L184 445.8 L186 445.2 L188 444.2 L190 442.9 L192 441.3 L194 439.4 L196 437.2 L198 434.8 L200 432.1 L202 429.3 L204 426.4 L206 423.4 L208 420.4 L210 417.5 L212 414.6 L214 412.0 L216 409.5 L218 407.4 L220 405.5 L222 404.0 L224 402.9 L226 402.2 L228 402.0 L230 402.2 L232 402.9 L234 404.1 L236 405.7 L238 407.7 L240 410.1 L242 412.8 L244 415.8 L246 419.0 L248 422.3 L250 425.7 L252 429.1 L254 432.3 L256 435.4 L258 438.2 L260 440.7 L262 442.7 L264 444.3 L266 445.4 L268 445.9 L270 445.9 L272 445.3 L274 444.1 L276 442.3 L278 440.0 L280 437.3 L282 434.1 L284 430.7 L286 427.0 L288 423.3 L290 419.5 L292 415.9 L294 412.4 L296 409.4 L298 406.7 L300 404.6 L302 403.1 L304 402.2 L306 402.0 L308 402.6 L310 403.9 L312 405.8 L314 408.4 L316 411.5 L318 415.1 L320 419.0 L322 423.1 L324 427.3 L326 431.3 L328 435.1 L330 438.6 L332 441.5 L334 443.7 L336 445.3 L338 446.0 L340 445.8 L342 444.8 L344 442.9 L346 440.3 L348 437.0 L350 433.1 L352 428.9 L354 424.4 L356 419.8 L358 415.4 L360 411.4 L362 407.9 L364 405.1 L366 403.2 L368 402.1 L370 402.1 L372 403.1 L374 405.1 L376 408.0 L378 411.7 L380 416.0 L382 420.8 L384 425.7 L386 430.5 L388 435.1 L390 439.1 L392 442.3 L394 444.6 L396 445.8 L398 445.9 L400 444.7 L402 442.4 L404 439.1 L406 434.9 L408 430.0 L410 424.8 L412 419.5 L414 414.5 L416 410.0 L418 406.3 L420 403.6 L422 402.2 L424 402.1 L426 403.4 L428 406.1 L430 409.8 L432 414.5 L434 419.9 L436 425.6 L438 431.1 L440 436.3 L442 440.6 L444 443.8 L446 445.6 L448 445.9 L450 444.7 L452 442.0 L454 437.9 L456 432.8 L458 427.0 L460 421.0 L462 415.1 L464 409.9 L466 405.8 L468 403.1 L470 402.0 L472 402.7 L474 405.1 L476 409.0 L478 414.3 L480 420.3 L482 426.7 L484 432.9 L486 438.4 L488 442.6 L490 445.2 L492 446.0 L494 444.8 L496 441.6 L498 436.9 L500 430.9 L502 424.3 L504 417.6 L506 411.4 L508 406.5 L510 403.2 L512 402.0 L514 403.0 L516 406.1 L518 411.0 L520 417.3 L522 424.3 L524 431.3 L526 437.6 L528 442.5 L530 445.4 L532 445.9 L534 444.0 L536 439.9 L538 434.0 L540 426.9 L542 419.4 L544 412.5 L546 406.8 L548 403.2 L550 402.0 L552 403.5 L554 407.5 L556 413.6 L558 421.0 L560 428.8 L562 436.1 L564 441.8 L566 445.2 L568 445.9 L570 443.7 L572 438.8 L574 431.9 L576 423.9 L578 415.8 L580 408.9 L582 404.1 L584 402.0 L586 403.2 L588 407.3 L590 414.0 L592 422.1 L594 430.6 L596 438.1 L598 443.5 L600 445.9 L602 444.9 L604 440.7 L606 433.7 L608 425.2 L610 416.5 L612 408.9 L614 403.8 L616 402.0 L618 403.9 L620 409.3 L622 417.2 L624 426.3 L626 435.1 L628 441.9 L630 445.6 L632 445.4 L634 441.3 L636 434.0 L638 424.9 L640 415.5 L642 407.7 L644 402.9 L646 402.2 L648 405.8 L650 412.9 L652 422.2 L654 432.0 L656 440.2 L658 445.1 L660 445.7 L662 441.8 L664 434.1 L666 424.3 L668 414.4 L670 406.5 L672 402.3 L674 403.0 L676 408.3 L678 417.1 L680 427.5 L682 437.2 L684 443.9 L686 446.0 L688 442.9 L690 435.3 L692 425.0 L694 414.4 L696 406.1 L698 402.2 L700 403.6 L702 410.1 L704 420.2 L706 431.3 L708 440.5 L710 445.5 L712 444.9 L714 438.8 L716 428.7 L718 417.2 L720 407.6 L722 402.4 L724 403.2 L726 409.8 L728 420.4 L730 432.0 L732 441.5 L734 445.9 L736 443.9 L738 436.1 L740 424.7 L742 413.0 L744 404.6 L746 402.1 L748 406.3 L750 416.0 L752 428.3 L754 439.2 L756 445.4 L758 444.7 L760 437.3 L762 425.5 L764 413.2 L766 404.4 L768 402.1 L770 407.3 L772 418.1 L774 431.0 L776 441.6 L778 446.0 L780 442.7 L782 432.7 L784 419.6 L786 408.0 L788 402.2 L790 404.4 L792 413.9 L794 427.2 L796 439.4 L798 445.7 L800 443.7 L802 434.1 L804 420.5 L806 408.2 L808 402.2 L810 404.8 L812 415.2 L814 429.2 L816 441.1 L818 446.0 L820 441.7 L822 430.0 L824 415.7 L826 404.9 L828 402.3 L830 409.1 L832 422.5 L834 436.6 L836 445.1 L838 444.3 L840 434.2 L842 419.5 L844 406.8 L846 402.0 L848 407.5 L850 420.7 L852 435.5 L854 444.9 L856 444.3 L858 433.8 L860 418.5 L862 405.8 L864 402.2 L866 409.4 L868 424.0 L870 438.7 L872 445.9 L874 441.8 L876 428.5 L878 412.8 L880 402.9 L882 404.2 L884 416.2 L886 432.3 L888 444.0 L890 444.8 L892 434.1 L894 417.7 L896 404.8 L898 402.7 L900 412.7 L902 429.2 L904 442.7 L906 445.4 L908 435.6 L910 418.9 L912 405.2 L914 402.7 L916 413.0 L918 430.0 L920 443.4 L922 444.9 L924 433.4 L926 416.0 L928 403.6 L930 404.1 L932 417.3 L934 434.8 L936 445.4 L938 442.1 L940 426.9 L942 409.7 L944 402.0 L946 409.0 L948 426.1 L950 441.9 L952 445.4 L954 434.2 L956 415.9 L958 403.2 L960 405.1 L962 420.3 L964 438.3 L966 446.0 L968 437.9 L970 419.7 L972 404.6 L974 403.7 L976 417.9 L978 436.7 L980 446.0 L982 438.6 L984 420.2 L986 404.6 L988 403.9 L990 418.9 L992 437.8 L994 446.0 L996 436.8 L998 417.3 L1000 403.2 L1002 405.8 L1004 423.2 L1006 441.3 L1008 445.2 L1010 431.6 L1012 411.7 L1014 402.0 L1016 410.8 L1018 430.9 L1020 445.1 L1022 441.2 L1024 422.5 L1026 405.0 L1028 404.1 L1030 420.7 L1032 440.2 L1034 445.4 L1036 431.4 L1038 410.7 L1040 402.1 L1042 413.3 L1044 434.4 L1046 445.9 L1048 437.1 L1050 416.0 L1052 402.4 L1054 409.1 L1056 430.0 L1058 445.2 L1060 440.1 L1062 419.4 L1064 403.2 L1066 407.3 L1068 427.8 L1070 444.6 L1072 441.0 L1074 420.4 L1076 403.4 L1078 407.2 L1080 428.1 L1082 444.9 L1084 440.2 L1086 418.8 L1088 402.8 L1090 408.8 L1092 430.8 L1094 445.7 L1096 437.5 L1098 415.0 L1100 402.0 L1102 412.8 L1104 435.7 L1106 445.9 L1108 432.1 L1110 409.4 L1112 402.8 L1114 419.8 L1116 441.5 L1118 443.6 L1120 423.5 L1122 404.0 L1124 407.2 L1126 429.7 L1128 445.7 L1130 436.5 L1132 412.8 L1134 402.1 L1136 417.2 L1138 440.3 L1140 444.1" fill="none" stroke="#D95C86" stroke-width="2.5" stroke-linejoin="round"/>
+    <g id="spectrum-segments">
+      <rect x="100.0" y="470" width="148.6" height="64" fill="#B9DCF5"/>
+      <rect x="248.6" y="470" width="148.6" height="64" fill="#A7D3F2"/>
+      <rect x="397.1" y="470" width="148.6" height="64" fill="#F6BFD0"/>
+      <rect x="694.3" y="470" width="148.6" height="64" fill="#D3C8EE"/>
+      <rect x="842.9" y="470" width="148.6" height="64" fill="#B8AEE6"/>
+      <rect x="991.4" y="470" width="148.6" height="64" fill="#A593D6"/>
+      <rect x="545.7" y="470" width="21.7" height="64" fill="#E57373"/>
+      <rect x="566.9" y="470" width="21.7" height="64" fill="#F2A65A"/>
+      <rect x="588.2" y="470" width="21.7" height="64" fill="#EBCB4A"/>
+      <rect x="609.4" y="470" width="21.7" height="64" fill="#7CCF8A"/>
+      <rect x="630.6" y="470" width="21.7" height="64" fill="#6BAEE8"/>
+      <rect x="651.8" y="470" width="21.7" height="64" fill="#7C83DB"/>
+      <rect x="673.1" y="470" width="21.7" height="64" fill="#B085E0"/>
+    </g>
+    <rect x="100" y="470" width="1040" height="64" fill="none" stroke="#7F93A8" stroke-width="1.5"/>
+    <g id="spectrum-names" font-size="18" font-weight="bold" fill="#2C5F8A" text-anchor="middle">
+      <text x="174.3" y="560">Radio</text>
+      <text x="322.9" y="560">Microwaves</text>
+      <text x="471.4" y="560">Infrared</text>
+      <text x="620.0" y="560">Visible</text>
+      <text x="768.6" y="560">Ultraviolet</text>
+      <text x="917.1" y="560">X-rays</text>
+      <text x="1065.7" y="560">Gamma rays</text>
+    </g>
+    <line x1="380" y1="592" x2="110" y2="592" stroke="#7F93A8" stroke-width="2" marker-end="url(#arGrey)"/>
+    <line x1="860" y1="592" x2="1130" y2="592" stroke="#7F93A8" stroke-width="2" marker-end="url(#arGrey)"/>
+    <text x="620" y="599" text-anchor="middle" font-size="19" fill="#4A5D72">Longer wavelength   ·   Higher frequency and energy</text>
+    <text x="100" y="386" font-size="18" fill="#6C8198">Wavelength decreases from left to right</text>
+  </g>
+
+  <g id="spectrum-table" data-pptx-bounds="80 642 1080 668">
+    <rect x="80" y="642" width="1080" height="668" rx="14" fill="#FFFFFF" stroke="#B9DCF5" stroke-width="1.5"/>
+    <path d="M80 722 V656 A14 14 0 0 1 94 642 H1146 A14 14 0 0 1 1160 656 V722 Z" fill="#BFE0F7"/>
+    <g id="table-bands" fill="#F6FAFE">
+      <rect x="81" y="806" width="1078" height="84"/>
+      <rect x="81" y="974" width="1078" height="84"/>
+      <rect x="81" y="1142" width="1078" height="84"/>
+    </g>
+    <path d="M80 806 H1160 M80 890 H1160 M80 974 H1160 M80 1058 H1160 M80 1142 H1160 M80 1226 H1160 M290 642 V1310 M490 642 V1310 M740 642 V1310" fill="none" stroke="#CFE6F7" stroke-width="1.5"/>
+    <g id="table-head" font-family="Georgia" font-size="21" font-weight="bold" fill="#24557E">
+      <text x="104" y="690">Region</text>
+      <text x="310" y="690">Wavelength</text>
+      <text x="510" y="690">Frequency</text>
+      <text x="760" y="690">Main applications</text>
+    </g>
+    <g id="table-swatches">
+      <rect x="96" y="748" width="10" height="32" rx="5" fill="#B9DCF5"/>
+      <rect x="96" y="832" width="10" height="32" rx="5" fill="#A7D3F2"/>
+      <rect x="96" y="916" width="10" height="32" rx="5" fill="#F6BFD0"/>
+      <rect x="96" y="1000" width="10" height="32" rx="5" fill="#EBCB4A"/>
+      <rect x="96" y="1084" width="10" height="32" rx="5" fill="#D3C8EE"/>
+      <rect x="96" y="1168" width="10" height="32" rx="5" fill="#B8AEE6"/>
+      <rect x="96" y="1252" width="10" height="32" rx="5" fill="#A593D6"/>
+    </g>
+    <g id="table-regions" font-size="21" font-weight="bold" fill="#2C5F8A">
+      <text x="118" y="772">Radio waves</text>
+      <text x="118" y="856">Microwaves</text>
+      <text x="118" y="940">Infrared</text>
+      <text x="118" y="1024">Visible light</text>
+      <text x="118" y="1108">Ultraviolet</text>
+      <text x="118" y="1192">X-rays</text>
+      <text x="118" y="1276">Gamma rays</text>
+    </g>
+    <g id="table-wavelengths" font-size="20" fill="#2F3B4A">
+      <text x="310" y="772">&gt; 0.1 m</text>
+      <text x="310" y="856">0.1 m – 1 mm</text>
+      <text x="310" y="940">1 mm – 700 nm</text>
+      <text x="310" y="1024">700 – 400 nm</text>
+      <text x="310" y="1108">400 – 1 nm</text>
+      <text x="310" y="1192">1 – 10<tspan baseline-shift="super" font-size="14">−3</tspan> nm</text>
+      <text x="310" y="1276">&lt; 10<tspan baseline-shift="super" font-size="14">−3</tspan> nm</text>
+    </g>
+    <g id="table-frequencies" font-size="20" fill="#2F3B4A">
+      <text x="510" y="772">&lt; 3 × 10<tspan baseline-shift="super" font-size="14">9</tspan> Hz</text>
+      <text x="510" y="856">3 × 10<tspan baseline-shift="super" font-size="14">9</tspan> – 3 × 10<tspan baseline-shift="super" font-size="14">11</tspan> Hz</text>
+      <text x="510" y="940">3 × 10<tspan baseline-shift="super" font-size="14">11</tspan> – 4 × 10<tspan baseline-shift="super" font-size="14">14</tspan> Hz</text>
+      <text x="510" y="1024">4 × 10<tspan baseline-shift="super" font-size="14">14</tspan> – 8 × 10<tspan baseline-shift="super" font-size="14">14</tspan> Hz</text>
+      <text x="510" y="1108">8 × 10<tspan baseline-shift="super" font-size="14">14</tspan> – 3 × 10<tspan baseline-shift="super" font-size="14">17</tspan> Hz</text>
+      <text x="510" y="1192">3 × 10<tspan baseline-shift="super" font-size="14">17</tspan> – 3 × 10<tspan baseline-shift="super" font-size="14">20</tspan> Hz</text>
+      <text x="510" y="1276">&gt; 3 × 10<tspan baseline-shift="super" font-size="14">20</tspan> Hz</text>
+    </g>
+    <g id="table-uses" font-size="20" fill="#2F3B4A">
+      <text x="760" y="760">Radio and television broadcasting,<tspan x="760" dy="26">mobile phones</tspan></text>
+      <text x="760" y="844">Radar, satellite links,<tspan x="760" dy="26">microwave ovens</tspan></text>
+      <text x="760" y="928">Remote controls, night vision,<tspan x="760" dy="26">heat therapy</tspan></text>
+      <text x="760" y="1012">Vision, photography,<tspan x="760" dy="26">optical instruments</tspan></text>
+      <text x="760" y="1096">Water sterilisation,<tspan x="760" dy="26">detecting forged notes</tspan></text>
+      <text x="760" y="1180">Medical radiography,<tspan x="760" dy="26">study of crystals</tspan></text>
+      <text x="760" y="1264">Cancer treatment,<tspan x="760" dy="26">sterilising instruments</tspan></text>
+    </g>
+  </g>
+
+  <g id="sec-notes" data-pptx-bounds="80 1330 1080 290">
+    <rect x="80" y="1336" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1361" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Points to Remember</text>
+    <g id="notes-list" fill="#2F3B4A">
+      <text x="80" y="1405">• The boundaries between regions are approximate and neighbouring regions overlap.</text>
+      <text x="80" y="1441">• Visible light is only a very narrow band of the whole spectrum.</text>
+      <text x="80" y="1477">• The energy of a photon, <tspan font-style="italic">E = hν</tspan>, increases from radio waves to gamma rays.</text>
+      <text x="80" y="1513">• Ultraviolet, X-rays and gamma rays can damage living tissue; the ozone layer</text>
+      <text x="98" y="1547">absorbs most of the Sun's ultraviolet radiation.</text>
+      <text x="80" y="1583">• Radio waves and microwaves come from oscillating circuits; X-rays and gamma rays</text>
+      <text x="98" y="1617">come from inner-shell electrons and atomic nuclei.</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">11</text>
+  </g>
+</svg>

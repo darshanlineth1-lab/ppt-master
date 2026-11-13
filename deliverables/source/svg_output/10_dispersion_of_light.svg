@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+    <marker id="arGrey" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="10" refX="12" refY="5" orient="auto">
+      <polygon points="0,0 14,5 0,10" fill="#7F93A8"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/rainbow" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Dispersion of Light</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="def-dispersion" data-pptx-bounds="80 205 1080 100">
+    <rect x="80" y="205" width="1080" height="100" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="108" y="246" fill="#2F3B4A"><tspan font-weight="bold" fill="#2C6C9E">Dispersion</tspan> is the splitting of white light into its constituent colours when it passes<tspan x="108" dy="34">through a transparent medium such as a glass prism. The band of colours is a spectrum.</tspan></text>
+  </g>
+
+  <g id="sec-prism" data-pptx-bounds="80 320 1080 420">
+    <rect x="80" y="326" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="351" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Dispersion of White Light by a Prism</text>
+    <rect x="80" y="376" width="1080" height="364" rx="16" fill="#FFFFFF" stroke="#CFE6F7" stroke-width="1.5"/>
+    <g id="p10-prism" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="triangle" data-pptx-frame="290 400 280 240" fill="#EAF5FD" stroke="#7DBDEA" stroke-width="3">
+<path d="M 290 640 L 430 400 L 570 640 Z"/>
+</g>
+    <line x1="120" y1="600" x2="250" y2="556.7" stroke="#7F93A8" stroke-width="5" marker-end="url(#arGrey)"/>
+    <line x1="250" y1="556.7" x2="360" y2="520" stroke="#7F93A8" stroke-width="5"/>
+    <g id="prism-rays" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M360 520 L491.6 505.6 L960 470" stroke="#E57373"/>
+      <path d="M360 520 L494.4 510.4 L960 508" stroke="#F2A65A"/>
+      <path d="M360 520 L497.2 515.2 L960 546" stroke="#EBCB4A"/>
+      <path d="M360 520 L500.0 520.0 L960 584" stroke="#7CCF8A"/>
+      <path d="M360 520 L502.8 524.8 L960 622" stroke="#6BAEE8"/>
+      <path d="M360 520 L505.6 529.6 L960 660" stroke="#7C83DB"/>
+      <path d="M360 520 L508.4 534.4 L960 698" stroke="#B085E0"/>
+    </g>
+    <line x1="1060" y1="456" x2="1060" y2="712" stroke="#2C5F8A" stroke-width="5"/>
+    <path d="M415 425.7 A30 30 0 0 0 445 425.7" fill="none" stroke="#6E5BB0" stroke-width="2"/>
+    <g id="prism-labels" font-size="20" fill="#2F3B4A">
+      <text x="120" y="560">White light</text>
+      <text x="430" y="672" text-anchor="middle">Glass prism</text>
+      <text x="430" y="458" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">A</text>
+      <text x="1060" y="440" text-anchor="middle">Screen</text>
+      <text x="700" y="430" font-size="18" fill="#4A5D72">Red deviates least</text>
+      <text x="700" y="716" font-size="18" fill="#4A5D72">Violet deviates most</text>
+    </g>
+    <g id="prism-colour-names" font-size="18" fill="#4A5D72">
+      <text x="976" y="477">Red</text>
+      <text x="976" y="515">Orange</text>
+      <text x="976" y="553">Yellow</text>
+      <text x="976" y="591">Green</text>
+      <text x="976" y="629">Blue</text>
+      <text x="976" y="667">Indigo</text>
+      <text x="976" y="705">Violet</text>
+    </g>
+  </g>
+
+  <g id="sec-cause" data-pptx-bounds="80 758 1080 200">
+    <rect x="80" y="764" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="789" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Cause of Dispersion</text>
+    <text x="80" y="835" fill="#2F3B4A">The refractive index of glass is different for different wavelengths: it is greatest for<tspan x="80" dy="34">violet and least for red. Each colour is therefore deviated by a different amount.</tspan></text>
+    <rect x="80" y="884" width="528" height="74" rx="14" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <rect x="632" y="884" width="528" height="74" rx="14" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
+    <text x="344" y="910" text-anchor="middle" font-size="18" fill="#6C8198">Deviation by a thin prism of angle A</text>
+    <text x="344" y="944" text-anchor="middle" font-size="26" font-weight="bold" font-style="italic" fill="#2C5F8A">δ = (n − 1) A</text>
+    <text x="896" y="910" text-anchor="middle" font-size="18" fill="#6C8198">Angular dispersion</text>
+    <text x="896" y="944" text-anchor="middle" font-size="26" font-weight="bold" font-style="italic" fill="#6E5BB0">δ<tspan baseline-shift="sub" font-size="16">v</tspan> − δ<tspan baseline-shift="sub" font-size="16">r</tspan> = (n<tspan baseline-shift="sub" font-size="16">v</tspan> − n<tspan baseline-shift="sub" font-size="16">r</tspan>) A</text>
+  </g>
+
+  <g id="sec-vibgyor" data-pptx-bounds="80 968 1080 140">
+    <text x="80" y="994" font-size="20" font-weight="bold" fill="#2C5F8A">The colours in order (VIBGYOR) with approximate wavelengths in air:</text>
+    <g id="vibgyor-chips">
+      <rect x="80" y="1010" width="144" height="92" rx="12" fill="#B085E0"/>
+      <rect x="236" y="1010" width="144" height="92" rx="12" fill="#7C83DB"/>
+      <rect x="392" y="1010" width="144" height="92" rx="12" fill="#6BAEE8"/>
+      <rect x="548" y="1010" width="144" height="92" rx="12" fill="#7CCF8A"/>
+      <rect x="704" y="1010" width="144" height="92" rx="12" fill="#EBCB4A"/>
+      <rect x="860" y="1010" width="144" height="92" rx="12" fill="#F2A65A"/>
+      <rect x="1016" y="1010" width="144" height="92" rx="12" fill="#E57373"/>
+    </g>
+    <g id="vibgyor-names" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+      <text x="152" y="1048">Violet</text>
+      <text x="308" y="1048">Indigo</text>
+      <text x="464" y="1048">Blue</text>
+      <text x="620" y="1048">Green</text>
+      <text x="776" y="1048">Yellow</text>
+      <text x="932" y="1048">Orange</text>
+      <text x="1088" y="1048">Red</text>
+    </g>
+    <g id="vibgyor-ranges" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+      <text x="152" y="1082">400–440 nm</text>
+      <text x="308" y="1082">440–460 nm</text>
+      <text x="464" y="1082">460–500 nm</text>
+      <text x="620" y="1082">500–570 nm</text>
+      <text x="776" y="1082">570–590 nm</text>
+      <text x="932" y="1082">590–620 nm</text>
+      <text x="1088" y="1082">620–700 nm</text>
+    </g>
+  </g>
+
+  <g id="sec-factors" data-pptx-bounds="80 1126 1080 196">
+    <rect x="80" y="1132" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1157" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Factors Affecting Dispersion</text>
+    <g id="factors-list" fill="#2F3B4A">
+      <text x="80" y="1201">• <tspan font-weight="bold" fill="#2C5F8A">Material of the prism:</tspan> flint glass disperses light more than crown glass.</text>
+      <text x="80" y="1237">• <tspan font-weight="bold" fill="#2C5F8A">Angle of the prism:</tspan> a larger refracting angle gives a wider spectrum.</text>
+      <text x="80" y="1273">• <tspan font-weight="bold" fill="#2C5F8A">Wavelength of light:</tspan> shorter wavelengths have a larger refractive index.</text>
+      <text x="80" y="1309">• <tspan font-weight="bold" fill="#2C5F8A">Vacuum:</tspan> all colours travel at the same speed, so there is no dispersion.</text>
+    </g>
+  </g>
+
+  <g id="sec-examples" data-pptx-bounds="80 1340 1080 276">
+    <rect x="80" y="1346" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1371" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Dispersion in Nature and Technology</text>
+    <rect x="80" y="1394" width="528" height="222" rx="16" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <rect x="632" y="1394" width="528" height="222" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <use data-icon="phosphor-duotone/rainbow" x="104" y="1414" width="44" height="44" fill="#D9739A"/>
+    <use data-icon="phosphor-duotone/magnifying-glass" x="656" y="1414" width="44" height="44" fill="#5AA9E0"/>
+    <text x="164" y="1444" font-weight="bold" fill="#B8456F">The rainbow</text>
+    <text x="104" y="1486" font-size="21" fill="#2F3B4A">Sunlight is refracted, dispersed and internally<tspan x="104" dy="30">reflected by raindrops. The primary rainbow</tspan><tspan x="104" dy="30">has red on the outer edge and violet on the</tspan><tspan x="104" dy="30">inner edge.</tspan></text>
+    <text x="716" y="1444" font-weight="bold" fill="#2C5F8A">Spectroscopy and lenses</text>
+    <text x="656" y="1486" font-size="21" fill="#2F3B4A">Prism spectrometers analyse the light from<tspan x="656" dy="30">atoms and stars. In lenses, dispersion causes</tspan><tspan x="656" dy="30">chromatic aberration, which is corrected with</tspan><tspan x="656" dy="30">achromatic combinations.</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">10</text>
+  </g>
+</svg>
