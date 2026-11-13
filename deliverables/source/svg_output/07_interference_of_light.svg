@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+    <marker id="arGrey" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="10" refX="12" refY="5" orient="auto">
+      <polygon points="0,0 14,5 0,10" fill="#7F93A8"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/target" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Interference of Light</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="def-interference" data-pptx-bounds="80 205 1080 100">
+    <rect x="80" y="205" width="1080" height="100" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="108" y="246" fill="#2F3B4A"><tspan font-weight="bold" fill="#2C6C9E">Interference</tspan> is the redistribution of light energy when two coherent light waves<tspan x="108" dy="34">superpose: the intensity becomes maximum at some points and minimum at others.</tspan></text>
+  </g>
+
+  <g id="sec-types" data-pptx-bounds="80 320 1080 350">
+    <rect x="80" y="326" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="351" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Constructive and Destructive Interference</text>
+    <rect x="80" y="376" width="528" height="248" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <rect x="632" y="376" width="528" height="248" rx="16" fill="#FDF6F9" stroke="#F6BFD0" stroke-width="1.5"/>
+    <path d="M220 418 H500 M220 466 H500 M220 532 H500 M772 418 H1052 M772 466 H1052" fill="none" stroke="#C5D3E0" stroke-width="1.5" stroke-dasharray="4 4"/>
+    <g id="waves-constructive" fill="none" stroke-width="3">
+      <path d="M220 418 q35 -28 70 0 t70 0 t70 0 t70 0" stroke="#5AA9E0"/>
+      <path d="M220 466 q35 -28 70 0 t70 0 t70 0 t70 0" stroke="#A593D6"/>
+      <path d="M220 532 q35 -56 70 0 t70 0 t70 0 t70 0" stroke="#D95C86" stroke-width="3.5"/>
+    </g>
+    <g id="waves-destructive" fill="none" stroke-width="3">
+      <path d="M772 418 q35 -28 70 0 t70 0 t70 0 t70 0" stroke="#5AA9E0"/>
+      <path d="M772 466 q35 28 70 0 t70 0 t70 0 t70 0" stroke="#A593D6"/>
+      <line x1="772" y1="532" x2="1052" y2="532" stroke="#D95C86" stroke-width="3.5"/>
+    </g>
+    <g id="waves-labels" font-size="20" fill="#4A5D72">
+      <text x="104" y="425">Wave 1</text>
+      <text x="104" y="473">Wave 2</text>
+      <text x="104" y="539" font-weight="bold" fill="#B8456F">Resultant</text>
+      <text x="656" y="425">Wave 1</text>
+      <text x="656" y="473">Wave 2</text>
+      <text x="656" y="539" font-weight="bold" fill="#B8456F">Resultant</text>
+      <text x="520" y="539">Bright</text>
+      <text x="1072" y="539">Dark</text>
+    </g>
+    <g id="waves-captions" text-anchor="middle">
+      <text x="344" y="584" font-size="22" font-weight="bold" fill="#2C5F8A">Constructive: crest meets crest</text>
+      <text x="344" y="611" font-size="20" fill="#2F3B4A">Path difference  Δ = <tspan font-style="italic">nλ</tspan></text>
+      <text x="896" y="584" font-size="22" font-weight="bold" fill="#B8456F">Destructive: crest meets trough</text>
+      <text x="896" y="611" font-size="20" fill="#2F3B4A">Path difference  Δ = (2<tspan font-style="italic">n</tspan> + 1) <tspan font-style="italic">λ</tspan>/2</text>
+    </g>
+    <text x="80" y="660" fill="#2F3B4A">With <tspan font-style="italic">n</tspan> = 0, 1, 2, …, the phase difference is 2<tspan font-style="italic">n</tspan>π for maxima and (2<tspan font-style="italic">n</tspan> + 1)π for minima.</text>
+  </g>
+
+  <g id="sec-conditions" data-pptx-bounds="80 680 1080 184">
+    <rect x="80" y="686" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="711" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Conditions for Sustained Interference</text>
+    <g id="conditions-list" fill="#2F3B4A">
+      <text x="80" y="753">• The two sources must be <tspan font-weight="bold" fill="#2C6C9E">coherent</tspan>: their phase difference must stay constant.</text>
+      <text x="80" y="787">• They must be <tspan font-weight="bold" fill="#2C6C9E">monochromatic</tspan>, emitting light of the same wavelength.</text>
+      <text x="80" y="821">• Their amplitudes should be equal or nearly equal, to give good contrast.</text>
+      <text x="80" y="855">• The sources should be narrow and close to each other.</text>
+    </g>
+  </g>
+
+  <g id="sec-ydse" data-pptx-bounds="80 876 1080 424">
+    <rect x="80" y="880" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="905" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Young's Double-Slit Experiment (YDSE)</text>
+    <rect x="80" y="922" width="1080" height="378" rx="16" fill="#FFFFFF" stroke="#CFE6F7" stroke-width="1.5"/>
+    <g id="ydse-wavelets" fill="none" stroke="#A7D3F2" stroke-width="2">
+      <path d="M285.6 1089.5 A60 60 0 0 1 285.6 1134.5 M332 1070.8 A110 110 0 0 1 332 1153.2 M378.3 1052.1 A160 160 0 0 1 378.3 1171.9"/>
+      <path d="M485.5 1026.1 A80 80 0 0 1 485.5 1117.9 M526.5 997.4 A130 130 0 0 1 526.5 1146.6"/>
+      <path d="M485.5 1106.1 A80 80 0 0 1 485.5 1197.9 M526.5 1077.4 A130 130 0 0 1 526.5 1226.6"/>
+    </g>
+    <line x1="230" y1="1112" x2="900" y2="1112" stroke="#7F93A8" stroke-width="1.5" stroke-dasharray="8 4"/>
+    <g id="ydse-rays" stroke="#D95C86" stroke-width="2.5">
+      <line x1="154" y1="1112" x2="230" y2="1112"/>
+      <line x1="420" y1="1072" x2="900" y2="1032"/>
+      <line x1="420" y1="1152" x2="900" y2="1032"/>
+    </g>
+    <g id="ydse-barriers" fill="none" stroke="#5C7F9F" stroke-width="7">
+      <path d="M230 992 V1104 M230 1120 V1232"/>
+      <path d="M420 972 V1064 M420 1080 V1144 M420 1160 V1252"/>
+      <line x1="900" y1="960" x2="900" y2="1264" stroke="#2C5F8A" stroke-width="5"/>
+    </g>
+    <circle cx="140" cy="1112" r="14" fill="#FCE4EC" stroke="#D9739A" stroke-width="2.5"/>
+    <g id="ydse-fringes">
+      <rect x="960" y="972" width="50" height="280" fill="#7C93B5"/>
+      <g id="ydse-bright-bands" fill="#FDEEF3">
+        <rect x="960" y="982" width="50" height="20"/>
+        <rect x="960" y="1022" width="50" height="20"/>
+        <rect x="960" y="1062" width="50" height="20"/>
+        <rect x="960" y="1102" width="50" height="20"/>
+        <rect x="960" y="1142" width="50" height="20"/>
+        <rect x="960" y="1182" width="50" height="20"/>
+        <rect x="960" y="1222" width="50" height="20"/>
+      </g>
+      <line x1="1040" y1="964" x2="1040" y2="1260" stroke="#7F93A8" stroke-width="1.5"/>
+      <path d="M1040 972 C1040 980 1120 984 1120 992 S1040 1004 1040 1012 S1120 1024 1120 1032 S1040 1044 1040 1052 S1120 1064 1120 1072 S1040 1084 1040 1092 S1120 1104 1120 1112 S1040 1124 1040 1132 S1120 1144 1120 1152 S1040 1164 1040 1172 S1120 1184 1120 1192 S1040 1204 1040 1212 S1120 1224 1120 1232 S1040 1244 1040 1252" fill="none" stroke="#D95C86" stroke-width="2.5"/>
+    </g>
+    <g id="ydse-dimensions" fill="none" stroke="#7F93A8" stroke-width="2">
+      <path d="M436 1074 V1150 M430 1074 H442 M430 1150 H442"/>
+      <path d="M920 1032 V1112 M914 1032 H926 M914 1112 H926"/>
+      <path d="M1136 1152 V1192 M1130 1152 H1142 M1130 1192 H1142"/>
+      <line x1="660" y1="1282" x2="424" y2="1282" marker-end="url(#arGrey)"/>
+      <line x1="660" y1="1282" x2="896" y2="1282" marker-end="url(#arGrey)"/>
+    </g>
+    <g id="ydse-labels" font-size="20" fill="#2F3B4A">
+      <text x="140" y="1150" text-anchor="middle">Source</text>
+      <text x="230" y="976" text-anchor="middle">Single slit S</text>
+      <text x="420" y="956" text-anchor="middle">Double slit</text>
+      <text x="900" y="950" text-anchor="middle">Screen</text>
+      <text x="985" y="958" text-anchor="middle" font-size="18">Fringes</text>
+      <text x="1090" y="958" text-anchor="middle" font-size="18">Intensity</text>
+      <text x="408" y="1060" text-anchor="end" font-weight="bold" fill="#2C5F8A">S<tspan baseline-shift="sub" font-size="14">1</tspan></text>
+      <text x="408" y="1180" text-anchor="end" font-weight="bold" fill="#2C5F8A">S<tspan baseline-shift="sub" font-size="14">2</tspan></text>
+      <text x="446" y="1119" font-style="italic" font-weight="bold" fill="#4A5D72">d</text>
+      <text x="884" y="1020" text-anchor="end" font-weight="bold" fill="#2C5F8A">P</text>
+      <text x="884" y="1138" text-anchor="end" font-weight="bold" fill="#2C5F8A">O</text>
+      <text x="930" y="1079" font-style="italic" font-weight="bold" fill="#4A5D72">y</text>
+      <text x="1143" y="1179" font-style="italic" font-weight="bold" fill="#4A5D72">β</text>
+      <text x="660" y="1272" text-anchor="middle" font-style="italic" font-weight="bold" fill="#4A5D72">D</text>
+    </g>
+  </g>
+
+  <g id="ydse-text" data-pptx-bounds="80 1310 1080 106">
+    <text x="80" y="1338" fill="#2F3B4A">Slits S<tspan baseline-shift="sub" font-size="16">1</tspan> and S<tspan baseline-shift="sub" font-size="16">2</tspan>, lit by the same slit S, act as two coherent sources. Their waves<tspan x="80" dy="34">superpose on the screen and form alternate bright and dark bands called fringes. At P,</tspan><tspan x="80" dy="34">the path difference is S<tspan baseline-shift="sub" font-size="16">2</tspan>P − S<tspan baseline-shift="sub" font-size="16">1</tspan>P = <tspan font-style="italic">yd/D</tspan>, where <tspan font-style="italic">d</tspan> is the slit separation.</tspan></text>
+  </g>
+
+  <g id="tile-bright" data-pptx-bounds="80 1428 344 102">
+    <rect x="80" y="1428" width="344" height="102" rx="14" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="252" y="1453" text-anchor="middle" font-size="18" fill="#6C8198">Position of bright fringes</text>
+    <g id="f-bright" data-pptx-replace-with="formula" data-pptx-x="100" data-pptx-y="1458" data-pptx-width="304" data-pptx-height="68" data-pptx-bounds="100 1458 304 68" font-size="22" font-weight="bold" fill="#2C5F8A" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"y_n=\\frac{n\\lambda D}{d}","display":"block","font_size":24,"color":"#2C5F8A","align":"center"}]]></metadata>
+      <text x="204" y="1500" font-style="italic">y<tspan baseline-shift="sub" font-size="14">n</tspan>  =</text>
+      <text x="268" y="1482" font-style="italic">nλD</text>
+      <text x="268" y="1516" font-style="italic">d</text>
+      <path d="M240 1491 H296" fill="none" stroke="#2C5F8A" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="tile-dark" data-pptx-bounds="448 1428 344 102">
+    <rect x="448" y="1428" width="344" height="102" rx="14" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
+    <text x="620" y="1453" text-anchor="middle" font-size="18" fill="#6C8198">Position of dark fringes</text>
+    <g id="f-dark" data-pptx-replace-with="formula" data-pptx-x="468" data-pptx-y="1458" data-pptx-width="304" data-pptx-height="68" data-pptx-bounds="468 1458 304 68" font-size="22" font-weight="bold" fill="#6E5BB0" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"y_n=\\frac{(2n+1)\\lambda D}{2d}","display":"block","font_size":24,"color":"#6E5BB0","align":"center"}]]></metadata>
+      <text x="544" y="1500" font-style="italic">y<tspan baseline-shift="sub" font-size="14">n</tspan>  =</text>
+      <text x="644" y="1482" font-style="italic">(2n + 1) λD</text>
+      <text x="644" y="1516" font-style="italic">2d</text>
+      <path d="M578 1491 H710" fill="none" stroke="#6E5BB0" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="tile-beta" data-pptx-bounds="816 1428 344 102">
+    <rect x="816" y="1428" width="344" height="102" rx="14" fill="#FDEEF3" stroke="#EE8FB0" stroke-width="2.5"/>
+    <text x="988" y="1453" text-anchor="middle" font-size="18" fill="#6C8198">Fringe width</text>
+    <g id="f-beta" data-pptx-replace-with="formula" data-pptx-x="836" data-pptx-y="1458" data-pptx-width="304" data-pptx-height="68" data-pptx-bounds="836 1458 304 68" font-weight="bold" fill="#B8456F" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"\\beta=\\frac{\\lambda D}{d}","display":"block","font_size":26,"color":"#B8456F","align":"center"}]]></metadata>
+      <text x="954" y="1500" font-style="italic">β  =</text>
+      <text x="1012" y="1482" font-style="italic">λD</text>
+      <text x="1012" y="1518" font-style="italic">d</text>
+      <path d="M988 1491 H1036" fill="none" stroke="#B8456F" stroke-width="2"/>
+    </g>
+  </g>
+
+  <g id="beta-text" data-pptx-bounds="80 1540 1080 76">
+    <text x="80" y="1570" fill="#2F3B4A"><tspan font-weight="bold" fill="#B8456F">Fringe width β</tspan> is the separation between two consecutive bright (or dark) fringes. All<tspan x="80" dy="34">fringes are equally wide; <tspan font-style="italic">β</tspan> increases with <tspan font-style="italic">λ</tspan> and <tspan font-style="italic">D</tspan>, and decreases when <tspan font-style="italic">d</tspan> is increased.</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">7</text>
+  </g>
+</svg>

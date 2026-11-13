@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+    <marker id="arGrey" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="10" refX="12" refY="5" orient="auto">
+      <polygon points="0,0 14,5 0,10" fill="#7F93A8"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/aperture" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Diffraction of Light</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="def-diffraction" data-pptx-bounds="80 205 1080 100">
+    <rect x="80" y="205" width="1080" height="100" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="108" y="246" fill="#2F3B4A"><tspan font-weight="bold" fill="#2C6C9E">Diffraction</tspan> is the bending of light round the edges of an obstacle or aperture, so<tspan x="108" dy="34">that it spreads into the region of the geometrical shadow.</tspan></text>
+  </g>
+
+  <g id="sec-single-slit" data-pptx-bounds="80 320 720 480">
+    <rect x="80" y="326" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="351" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Diffraction at a Single Slit</text>
+    <rect x="80" y="376" width="720" height="424" rx="16" fill="#FFFFFF" stroke="#CFE6F7" stroke-width="1.5"/>
+    <path d="M240 558 L540 528 V648 L240 618 Z" fill="#FDEEF3"/>
+    <path d="M120 470 V706 M150 470 V706 M180 470 V706" fill="none" stroke="#7DBDEA" stroke-width="2.5"/>
+    <line x1="96" y1="500" x2="206" y2="500" stroke="#D95C86" stroke-width="2.5" marker-end="url(#arRose)"/>
+    <line x1="96" y1="676" x2="206" y2="676" stroke="#D95C86" stroke-width="2.5" marker-end="url(#arRose)"/>
+    <line x1="240" y1="588" x2="540" y2="588" stroke="#7F93A8" stroke-width="1.5" stroke-dasharray="8 4"/>
+    <line x1="240" y1="588" x2="540" y2="528" stroke="#D95C86" stroke-width="2.5"/>
+    <path d="M350 588 A110 110 0 0 0 347.9 566.4" fill="none" stroke="#6E5BB0" stroke-width="2"/>
+    <path d="M240 420 V558 M240 618 V756" fill="none" stroke="#5C7F9F" stroke-width="7"/>
+    <line x1="540" y1="404" x2="540" y2="762" stroke="#2C5F8A" stroke-width="5"/>
+    <line x1="560" y1="402" x2="560" y2="774" stroke="#7F93A8" stroke-width="1.5"/>
+    <path d="M560 408 C560 418 568 428 568 438 S560 458 560 468 S576 488 576 498 S560 518 560 528 C560 552 670 560 670 588 S560 624 560 648 C560 658 576 668 576 678 S560 698 560 708 S568 728 568 738 S560 758 560 768" fill="none" stroke="#D95C86" stroke-width="3"/>
+    <g id="slit-dimensions" fill="none" stroke="#7F93A8" stroke-width="2">
+      <path d="M218 558 V618 M212 558 H224 M212 618 H224"/>
+      <line x1="390" y1="780" x2="244" y2="780" marker-end="url(#arGrey)"/>
+      <line x1="390" y1="780" x2="536" y2="780" marker-end="url(#arGrey)"/>
+    </g>
+    <g id="slit-labels" font-size="20" fill="#2F3B4A">
+      <text x="96" y="734">Plane<tspan x="96" dy="24">wavefronts</tspan></text>
+      <text x="240" y="406" text-anchor="middle">Single slit</text>
+      <text x="530" y="398" text-anchor="end">Screen</text>
+      <text x="572" y="398">Intensity</text>
+      <text x="204" y="595" text-anchor="end" font-style="italic" font-weight="bold" fill="#4A5D72">a</text>
+      <text x="362" y="582" font-style="italic" font-weight="bold" fill="#6E5BB0">θ</text>
+      <text x="390" y="770" text-anchor="middle" font-style="italic" font-weight="bold" fill="#4A5D72">D</text>
+      <text x="684" y="582" font-weight="bold" fill="#B8456F">Central<tspan x="684" dy="24">maximum</tspan></text>
+      <text x="592" y="534" font-size="18">First minimum</text>
+      <text x="592" y="654" font-size="18">First minimum</text>
+      <text x="592" y="504" font-size="18">Secondary maximum</text>
+      <text x="592" y="684" font-size="18">Secondary maximum</text>
+    </g>
+  </g>
+
+  <g id="tile-minima" data-pptx-bounds="824 376 336 128">
+    <rect x="824" y="376" width="336" height="128" rx="14" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="992" y="408" text-anchor="middle" font-size="18" fill="#6C8198">Minima (dark bands)</text>
+    <text x="992" y="452" text-anchor="middle" font-size="28" font-weight="bold" fill="#2C5F8A"><tspan font-style="italic">a</tspan> sin <tspan font-style="italic">θ</tspan> = <tspan font-style="italic">nλ</tspan></text>
+    <text x="992" y="486" text-anchor="middle" font-size="18" fill="#4A5D72"><tspan font-style="italic">n</tspan> = 1, 2, 3, …</text>
+  </g>
+  <g id="tile-maxima" data-pptx-bounds="824 524 336 128">
+    <rect x="824" y="524" width="336" height="128" rx="14" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
+    <text x="992" y="556" text-anchor="middle" font-size="18" fill="#6C8198">Secondary maxima</text>
+    <text x="992" y="600" text-anchor="middle" font-size="28" font-weight="bold" fill="#6E5BB0"><tspan font-style="italic">a</tspan> sin <tspan font-style="italic">θ</tspan> = (2<tspan font-style="italic">n</tspan> + 1) <tspan font-style="italic">λ</tspan>/2</text>
+    <text x="992" y="634" text-anchor="middle" font-size="18" fill="#4A5D72"><tspan font-style="italic">n</tspan> = 1, 2, 3, …</text>
+  </g>
+  <g id="tile-width" data-pptx-bounds="824 672 336 128">
+    <rect x="824" y="672" width="336" height="128" rx="14" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="992" y="704" text-anchor="middle" font-size="18" fill="#6C8198">Width of the central maximum</text>
+    <text x="992" y="746" text-anchor="middle" font-size="26" font-weight="bold" fill="#B8456F">Angular:  2<tspan font-style="italic">λ</tspan>/<tspan font-style="italic">a</tspan></text>
+    <text x="992" y="782" text-anchor="middle" font-size="26" font-weight="bold" fill="#B8456F">Linear:  2<tspan font-style="italic">λD</tspan>/<tspan font-style="italic">a</tspan></text>
+  </g>
+
+  <g id="sec-compare" data-pptx-bounds="80 822 1080 340">
+    <rect x="80" y="828" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="853" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Interference and Diffraction Compared</text>
+    <rect x="80" y="876" width="1080" height="286" rx="14" fill="#FFFFFF" stroke="#CFE6F7" stroke-width="1.5"/>
+    <path d="M80 922 V890 A14 14 0 0 1 94 876 H620 V922 Z" fill="#DCEFFB"/>
+    <path d="M620 922 V876 H1146 A14 14 0 0 1 1160 890 V922 Z" fill="#FCE4EC"/>
+    <path d="M80 1002 H1160 M80 1082 H1160 M620 876 V1162" fill="none" stroke="#CFE6F7" stroke-width="1.5"/>
+    <text x="350" y="908" text-anchor="middle" font-size="22" font-weight="bold" fill="#2C5F8A">Interference</text>
+    <text x="890" y="908" text-anchor="middle" font-size="22" font-weight="bold" fill="#B8456F">Diffraction</text>
+    <g id="compare-left" font-size="22" fill="#2F3B4A">
+      <text x="104" y="954">Superposition of waves from two separate<tspan x="104" dy="30">coherent sources.</tspan></text>
+      <text x="104" y="1034">All bright fringes have nearly the same<tspan x="104" dy="30">intensity.</tspan></text>
+      <text x="104" y="1114">All fringes, bright and dark, are equally<tspan x="104" dy="30">wide.</tspan></text>
+    </g>
+    <g id="compare-right" font-size="22" fill="#2F3B4A">
+      <text x="644" y="954">Superposition of secondary wavelets from<tspan x="644" dy="30">different parts of the same wavefront.</tspan></text>
+      <text x="644" y="1034">Intensity falls rapidly for successive maxima<tspan x="644" dy="30">on either side of the central maximum.</tspan></text>
+      <text x="644" y="1114">The central maximum is twice as wide as the<tspan x="644" dy="30">secondary maxima.</tspan></text>
+    </g>
+  </g>
+
+  <g id="sec-conditions" data-pptx-bounds="80 1184 1080 160">
+    <rect x="80" y="1190" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1215" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Conditions for Observing Diffraction</text>
+    <g id="conditions-list" fill="#2F3B4A">
+      <text x="80" y="1259">• The slit or obstacle must be comparable in size to the wavelength of the light.</text>
+      <text x="80" y="1295">• The source and the screen should be far from the slit, so that plane waves are used.</text>
+      <text x="80" y="1331">• Monochromatic light gives a sharp pattern; white light gives coloured bands.</text>
+    </g>
+  </g>
+
+  <g id="sec-everyday" data-pptx-bounds="80 1358 1080 236">
+    <rect x="80" y="1364" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1389" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Diffraction in Everyday Life and Technology</text>
+    <g id="everyday-list" fill="#2F3B4A">
+      <text x="80" y="1433">• The rainbow colours on a CD or DVD, whose fine tracks act as a diffraction grating.</text>
+      <text x="80" y="1469">• Coloured fringes seen when a distant street lamp is viewed through a fine cloth.</text>
+      <text x="80" y="1505">• Diffraction gratings in spectrometers, which separate light into its wavelengths.</text>
+      <text x="80" y="1541">• X-ray diffraction by crystals, which reveals the arrangement of atoms in solids.</text>
+      <text x="80" y="1577">• Diffraction sets the limit of resolution of telescopes and microscopes.</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">8</text>
+  </g>
+</svg>

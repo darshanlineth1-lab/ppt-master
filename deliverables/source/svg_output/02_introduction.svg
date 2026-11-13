@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/lightbulb" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Introduction</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="sec-optics" data-pptx-bounds="80 205 1080 160">
+    <rect x="80" y="211" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="236" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">What is Optics?</text>
+    <text x="80" y="282" fill="#2F3B4A"><tspan font-weight="bold" fill="#2C6C9E">Optics</tspan> is the branch of physics that deals with the nature and properties of light and<tspan x="80" dy="34">its interaction with matter. Ray (geometrical) optics treats light as rays that travel in</tspan><tspan x="80" dy="34">straight lines, while wave (physical) optics treats light as a wave.</tspan></text>
+  </g>
+
+  <g id="sec-light" data-pptx-bounds="80 380 1080 194">
+    <rect x="80" y="386" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="411" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Light and Its Importance in Physics</text>
+    <text x="80" y="457" fill="#2F3B4A">Light is a form of energy that produces the sensation of vision. In vacuum it travels at<tspan x="80" dy="34"><tspan font-weight="bold" fill="#C2527C">c = 3 × 10<tspan baseline-shift="super" font-size="16">8</tspan> m s<tspan baseline-shift="super" font-size="16">−1</tspan></tspan>, the greatest speed possible in nature. Light brings us energy and</tspan><tspan x="80" dy="34">information from the Sun, the stars and atoms, so its study connects mechanics,</tspan><tspan x="80" dy="34">electromagnetism and modern physics.</tspan></text>
+  </g>
+
+  <g id="sec-history" data-pptx-bounds="80 590 1080 226">
+    <rect x="80" y="596" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="621" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">A Brief History of the Study of Light</text>
+    <line x1="110" y1="666" x2="1130" y2="666" stroke="#A7D3F2" stroke-width="3"/>
+    <g id="history-cards-blue" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5">
+      <rect x="80" y="690" width="164" height="124" rx="12"/>
+      <rect x="446.4" y="690" width="164" height="124" rx="12"/>
+      <rect x="812.8" y="690" width="164" height="124" rx="12"/>
+    </g>
+    <g id="history-cards-pink" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5">
+      <rect x="263.2" y="690" width="164" height="124" rx="12"/>
+      <rect x="629.6" y="690" width="164" height="124" rx="12"/>
+      <rect x="996" y="690" width="164" height="124" rx="12"/>
+    </g>
+    <g id="history-dots" stroke="#FFFFFF" stroke-width="2">
+      <circle cx="162" cy="666" r="8" fill="#5AA9E0"/>
+      <circle cx="345.2" cy="666" r="8" fill="#EE8FB0"/>
+      <circle cx="528.4" cy="666" r="8" fill="#5AA9E0"/>
+      <circle cx="711.6" cy="666" r="8" fill="#EE8FB0"/>
+      <circle cx="894.8" cy="666" r="8" fill="#5AA9E0"/>
+      <circle cx="1078" cy="666" r="8" fill="#EE8FB0"/>
+    </g>
+    <g id="history-years" font-size="24" font-weight="bold" fill="#C2527C" text-anchor="middle">
+      <text x="162" y="724">1621</text>
+      <text x="345.2" y="724">1678</text>
+      <text x="528.4" y="724">1704</text>
+      <text x="711.6" y="724">1801</text>
+      <text x="894.8" y="724">1865</text>
+      <text x="1078" y="724">1905</text>
+    </g>
+    <g id="history-names" font-size="20" font-weight="bold" fill="#2C5F8A" text-anchor="middle">
+      <text x="162" y="752">Snell</text>
+      <text x="345.2" y="752">Huygens</text>
+      <text x="528.4" y="752">Newton</text>
+      <text x="711.6" y="752">Young</text>
+      <text x="894.8" y="752">Maxwell</text>
+      <text x="1078" y="752">Einstein</text>
+    </g>
+    <g id="history-notes" font-size="16" fill="#4A5D72" text-anchor="middle">
+      <text x="162" y="776">Law of<tspan x="162" dy="20">refraction</tspan></text>
+      <text x="345.2" y="776">Wave theory<tspan x="345.2" dy="20">of light</tspan></text>
+      <text x="528.4" y="776">Corpuscular<tspan x="528.4" dy="20">theory of light</tspan></text>
+      <text x="711.6" y="776">Double-slit<tspan x="711.6" dy="20">interference</tspan></text>
+      <text x="894.8" y="776">Electromagnetic<tspan x="894.8" dy="20">theory of light</tspan></text>
+      <text x="1078" y="776">Photon picture<tspan x="1078" dy="20">of light</tspan></text>
+    </g>
+  </g>
+
+  <g id="sec-wave-nature" data-pptx-bounds="80 838 580 260">
+    <rect x="80" y="844" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="869" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">The Wave Nature of Light</text>
+    <text x="80" y="915" fill="#2F3B4A"><tspan x="80" dy="0"><tspan font-weight="bold" fill="#2C6C9E">Interference, diffraction and polarisation</tspan></tspan><tspan x="80" dy="34">cannot be explained by rays or by particles.</tspan><tspan x="80" dy="34">They show that light travels as a wave. Huygens'</tspan><tspan x="80" dy="34">principle explains reflection and refraction on</tspan><tspan x="80" dy="34">the wave picture, and Maxwell proved that light</tspan><tspan x="80" dy="34">is a transverse electromagnetic wave.</tspan></text>
+  </g>
+  <g id="wave-diagram" data-pptx-bounds="680 850 480 248">
+    <rect x="680" y="850" width="480" height="248" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <line x1="706" y1="984" x2="1134" y2="984" stroke="#7F93A8" stroke-width="1.5" stroke-dasharray="6 4"/>
+    <path d="M720 984 q50 -110 100 0 t100 0 t100 0 t100 0" fill="none" stroke="#5AA9E0" stroke-width="3.5"/>
+    <path d="M770 902 H970 M770 894 V910 M970 894 V910" fill="none" stroke="#D95C86" stroke-width="2"/>
+    <line x1="770" y1="929" x2="770" y2="984" stroke="#D95C86" stroke-width="2" stroke-dasharray="4 4"/>
+    <g id="wave-labels" font-size="20" fill="#2F3B4A">
+      <text x="870" y="890" text-anchor="middle">Wavelength <tspan font-style="italic">λ</tspan></text>
+      <text x="996" y="930">Crest</text>
+      <text x="1070" y="1068" text-anchor="middle">Trough</text>
+      <text x="780" y="964" font-style="italic">a</text>
+      <text x="706" y="1076"><tspan font-style="italic">a</tspan> = amplitude</text>
+    </g>
+  </g>
+
+  <g id="sec-importance" data-pptx-bounds="80 1122 1080 470">
+    <rect x="80" y="1128" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1153" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Importance of Optics in Modern Science and Technology</text>
+    <rect x="80" y="1178" width="1080" height="412" rx="16" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <g id="importance-icons">
+      <use data-icon="phosphor-duotone/eyeglasses" x="108" y="1206" width="40" height="40" fill="#5AA9E0"/>
+      <use data-icon="phosphor-duotone/plugs-connected" x="108" y="1282" width="40" height="40" fill="#D9739A"/>
+      <use data-icon="phosphor-duotone/flashlight" x="108" y="1358" width="40" height="40" fill="#5AA9E0"/>
+      <use data-icon="phosphor-duotone/stethoscope" x="108" y="1434" width="40" height="40" fill="#D9739A"/>
+      <use data-icon="phosphor-duotone/atom" x="108" y="1510" width="40" height="40" fill="#5AA9E0"/>
+    </g>
+    <g id="importance-list" font-size="22" fill="#2F3B4A">
+      <text x="170" y="1234"><tspan font-weight="bold" fill="#2C5F8A">Vision and imaging:</tspan> spectacles, cameras, microscopes and telescopes.</text>
+      <text x="170" y="1310"><tspan font-weight="bold" fill="#2C5F8A">Communication:</tspan> optical fibres carry telephone, television and internet signals.</text>
+      <text x="170" y="1386"><tspan font-weight="bold" fill="#2C5F8A">Lasers:</tspan> surgery, industrial cutting, barcode scanners and data storage.</text>
+      <text x="170" y="1462"><tspan font-weight="bold" fill="#2C5F8A">Medicine:</tspan> endoscopy, eye testing and diagnostic imaging.</text>
+      <text x="170" y="1538"><tspan font-weight="bold" fill="#2C5F8A">Research:</tspan> spectroscopy reveals the composition of atoms and stars.</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">2</text>
+  </g>
+</svg>

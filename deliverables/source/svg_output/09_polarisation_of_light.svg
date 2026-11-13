@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+    <marker id="arNavy" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="10" refX="12" refY="5" orient="auto">
+      <polygon points="0,0 14,5 0,10" fill="#2C5F8A"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/sun" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Polarisation of Light</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="def-polarisation" data-pptx-bounds="80 205 1080 134">
+    <rect x="80" y="205" width="1080" height="134" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="108" y="246" fill="#2F3B4A"><tspan font-weight="bold" fill="#2C6C9E">Polarisation</tspan> is the restriction of the vibrations of the electric field of a light wave<tspan x="108" dy="34">to one direction in the plane perpendicular to its direction of travel. Only transverse</tspan><tspan x="108" dy="34">waves can be polarised, so polarisation proves that light waves are transverse.</tspan></text>
+  </g>
+
+  <g id="sec-types" data-pptx-bounds="80 354 1080 246">
+    <rect x="80" y="360" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="385" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Unpolarised and Plane-Polarised Light</text>
+    <rect x="80" y="408" width="528" height="192" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <rect x="632" y="408" width="528" height="192" rx="16" fill="#FDF6F9" stroke="#F6BFD0" stroke-width="1.5"/>
+    <g id="star-unpolarised" stroke="#2C5F8A" stroke-width="2.5">
+      <line x1="176" y1="504" x2="234" y2="504" marker-end="url(#arNavy)"/>
+      <line x1="176" y1="504" x2="118" y2="504" marker-end="url(#arNavy)"/>
+      <line x1="176" y1="504" x2="176" y2="446" marker-end="url(#arNavy)"/>
+      <line x1="176" y1="504" x2="176" y2="562" marker-end="url(#arNavy)"/>
+      <line x1="176" y1="504" x2="217" y2="463" marker-end="url(#arNavy)"/>
+      <line x1="176" y1="504" x2="135" y2="545" marker-end="url(#arNavy)"/>
+      <line x1="176" y1="504" x2="217" y2="545" marker-end="url(#arNavy)"/>
+      <line x1="176" y1="504" x2="135" y2="463" marker-end="url(#arNavy)"/>
+      <circle cx="176" cy="504" r="6" fill="#D95C86" stroke="none"/>
+    </g>
+    <g id="arrow-polarised" stroke="#2C5F8A" stroke-width="2.5">
+      <line x1="728" y1="504" x2="728" y2="446" marker-end="url(#arNavy)"/>
+      <line x1="728" y1="504" x2="728" y2="562" marker-end="url(#arNavy)"/>
+      <circle cx="728" cy="504" r="6" fill="#D95C86" stroke="none"/>
+    </g>
+    <text x="262" y="452" font-size="22" font-weight="bold" fill="#2C5F8A">Unpolarised light</text>
+    <text x="262" y="486" font-size="20" fill="#2F3B4A">The electric field vibrates in all<tspan x="262" dy="28">directions perpendicular to the ray,</tspan><tspan x="262" dy="28">as in sunlight or lamp light.</tspan><tspan x="262" dy="28">(The ray is seen end-on.)</tspan></text>
+    <text x="800" y="452" font-size="22" font-weight="bold" fill="#B8456F">Plane-polarised light</text>
+    <text x="800" y="486" font-size="20" fill="#2F3B4A">The electric field vibrates along one<tspan x="800" dy="28">fixed direction only. The plane that</tspan><tspan x="800" dy="28">contains this direction and the ray is</tspan><tspan x="800" dy="28">called the plane of vibration.</tspan></text>
+  </g>
+
+  <g id="sec-polaroids" data-pptx-bounds="80 618 1080 406">
+    <rect x="80" y="624" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="649" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Polarisation by Polaroids and Malus' Law</text>
+    <rect x="80" y="672" width="1080" height="272" rx="16" fill="#FFFFFF" stroke="#CFE6F7" stroke-width="1.5"/>
+    <g id="malus-beam" stroke="#D95C86" stroke-width="2.5">
+      <line x1="206" y1="794" x2="292" y2="794" marker-end="url(#arRose)"/>
+      <line x1="364" y1="794" x2="450" y2="794" marker-end="url(#arRose)"/>
+      <line x1="510" y1="794" x2="602" y2="794" marker-end="url(#arRose)"/>
+      <line x1="674" y1="794" x2="756" y2="794" marker-end="url(#arRose)"/>
+      <line x1="824" y1="794" x2="884" y2="794" marker-end="url(#arRose)"/>
+    </g>
+    <g id="malus-star" stroke="#2C5F8A" stroke-width="2.5">
+      <path d="M122 794 H198 M160 756 V832 M133 767 L187 821 M187 767 L133 821" fill="none"/>
+    </g>
+    <ellipse cx="330" cy="794" rx="26" ry="84" fill="#DCEFFB" stroke="#5AA9E0" stroke-width="2.5"/>
+    <ellipse cx="640" cy="794" rx="26" ry="84" fill="#FCE4EC" stroke="#D9739A" stroke-width="2.5"/>
+    <line x1="330" y1="716" x2="330" y2="872" stroke="#2C5F8A" stroke-width="2.5" stroke-dasharray="8 4"/>
+    <line x1="640" y1="716" x2="640" y2="872" stroke="#9FB3C8" stroke-width="2" stroke-dasharray="4 4"/>
+    <line x1="623.3" y1="858.3" x2="656.7" y2="729.7" stroke="#B8456F" stroke-width="2.5" stroke-dasharray="8 4"/>
+    <g id="malus-vibrations" stroke="#2C5F8A" stroke-width="2.5">
+      <line x1="480" y1="794" x2="480" y2="754" marker-end="url(#arNavy)"/>
+      <line x1="480" y1="794" x2="480" y2="834" marker-end="url(#arNavy)"/>
+      <line x1="790" y1="794" x2="809.3" y2="771" marker-end="url(#arNavy)"/>
+      <line x1="790" y1="794" x2="770.7" y2="817" marker-end="url(#arNavy)"/>
+    </g>
+    <rect x="900" y="734" width="240" height="120" rx="14" fill="#FDEEF3" stroke="#EE8FB0" stroke-width="2"/>
+    <text x="1020" y="766" text-anchor="middle" font-size="18" fill="#6C8198">Malus' law</text>
+    <text x="1020" y="818" text-anchor="middle" font-size="30" font-weight="bold" font-style="italic" fill="#B8456F">I = I<tspan baseline-shift="sub" font-size="18">0</tspan> cos<tspan baseline-shift="super" font-size="18">2</tspan>θ</text>
+    <g id="malus-labels" font-size="20" fill="#2F3B4A" text-anchor="middle">
+      <text x="330" y="702" font-size="18">Pass axis</text>
+      <text x="662" y="706" font-size="18" font-style="italic" font-weight="bold" fill="#B8456F">θ</text>
+      <text x="160" y="906">Unpolarised<tspan x="160" dy="24">light</tspan></text>
+      <text x="330" y="906" font-weight="bold" fill="#2C5F8A">Polariser</text>
+      <text x="480" y="906">Plane-polarised,<tspan x="480" dy="24">intensity <tspan font-style="italic">I</tspan><tspan baseline-shift="sub" font-size="14">0</tspan></tspan></text>
+      <text x="640" y="906" font-weight="bold" fill="#B8456F">Analyser</text>
+      <text x="790" y="906">Transmitted,<tspan x="790" dy="24">intensity <tspan font-style="italic">I</tspan></tspan></text>
+    </g>
+    <text x="80" y="980" fill="#2F3B4A">A Polaroid transmits only the component of the electric field parallel to its pass axis.<tspan x="80" dy="34">Here <tspan font-style="italic">θ</tspan> is the angle between the two pass axes; crossed Polaroids (<tspan font-style="italic">θ</tspan> = 90°) pass no light.</tspan></text>
+  </g>
+
+  <g id="sec-brewster" data-pptx-bounds="80 1034 1080 386">
+    <rect x="80" y="1040" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1065" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Polarisation by Reflection: Brewster's Law</text>
+    <rect x="80" y="1088" width="520" height="332" rx="16" fill="#FFFFFF" stroke="#CFE6F7" stroke-width="1.5"/>
+    <path d="M82 1290 H598 V1404 A14 14 0 0 1 584 1418 H96 A14 14 0 0 1 82 1404 Z" fill="#DCEFFB"/>
+    <line x1="82" y1="1290" x2="598" y2="1290" stroke="#5AA9E0" stroke-width="3"/>
+    <line x1="340" y1="1112" x2="340" y2="1400" stroke="#7F93A8" stroke-width="2" stroke-dasharray="6 4"/>
+    <g id="brewster-rays" stroke="#D95C86" stroke-width="3">
+      <line x1="173.6" y1="1179" x2="256.8" y2="1234.5" marker-end="url(#arRose)"/>
+      <line x1="256.8" y1="1234.5" x2="340" y2="1290"/>
+      <line x1="340" y1="1290" x2="431.5" y2="1229" marker-end="url(#arRose)"/>
+      <line x1="431.5" y1="1229" x2="493.9" y2="1187.3"/>
+      <line x1="340" y1="1290" x2="362.2" y2="1323.3" marker-end="url(#arRose)"/>
+      <line x1="362.2" y1="1323.3" x2="406.6" y2="1389.8"/>
+    </g>
+    <path d="M340 1230 A60 60 0 0 0 290.1 1256.7 M340 1340 A50 50 0 0 0 367.8 1331.6 M353.3 1281.1 L362.2 1294.4 L348.9 1303.3" fill="none" stroke="#6E5BB0" stroke-width="2"/>
+    <g id="brewster-vibrations" fill="#2C5F8A" stroke="#2C5F8A" stroke-width="2.5">
+      <circle cx="302.6" cy="1265" r="4.5" stroke="none"/>
+      <circle cx="227.7" cy="1215.1" r="4.5" stroke="none"/>
+      <path d="M272.6 1255.9 L282.6 1240.9 M197.7 1205.9 L207.7 1190.9" fill="none"/>
+      <circle cx="377.4" cy="1265" r="4.5" stroke="none"/>
+      <circle cx="406.6" cy="1245.6" r="4.5" stroke="none"/>
+      <circle cx="456.5" cy="1212.3" r="4.5" stroke="none"/>
+      <circle cx="481.4" cy="1195.7" r="4.5" stroke="none"/>
+      <circle cx="373.3" cy="1339.9" r="4.5" stroke="none"/>
+      <path d="M376.9 1361.6 L391.9 1351.6 M389.1 1379.9 L404.1 1369.9" fill="none"/>
+      <circle cx="108" cy="1372" r="4.5" stroke="none"/>
+      <line x1="108" y1="1390" x2="108" y2="1408"/>
+    </g>
+    <g id="brewster-labels" font-size="20" fill="#2F3B4A">
+      <text x="348" y="1128">Normal</text>
+      <text x="100" y="1134">Unpolarised<tspan x="100" dy="24">incident light</tspan></text>
+      <text x="584" y="1134" text-anchor="end">Plane-polarised<tspan x="584" dy="24">reflected light</tspan></text>
+      <text x="424" y="1376">Partially polarised<tspan x="424" dy="24">refracted light</tspan></text>
+      <text x="318" y="1222" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">i<tspan baseline-shift="sub" font-size="14">B</tspan></text>
+      <text x="353" y="1368" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">r</text>
+      <text x="384" y="1312" font-size="18" font-weight="bold" fill="#6E5BB0">90°</text>
+      <text x="100" y="1276" font-weight="bold" fill="#2C5F8A">Air</text>
+      <text x="100" y="1326" font-weight="bold" fill="#2C5F8A">Glass (<tspan font-style="italic">n</tspan>)</text>
+      <text x="122" y="1378" font-size="17">Vibrations normal to page</text>
+      <text x="122" y="1405" font-size="17">Vibrations in the page</text>
+    </g>
+    <text x="624" y="1116" fill="#2F3B4A">When unpolarised light is incident on a<tspan x="624" dy="34">transparent surface at the polarising</tspan><tspan x="624" dy="34">(Brewster's) angle <tspan font-style="italic">i</tspan><tspan baseline-shift="sub" font-size="16">B</tspan>, the reflected light is</tspan><tspan x="624" dy="34">completely plane-polarised, with vibrations</tspan><tspan x="624" dy="34">perpendicular to the plane of incidence.</tspan><tspan x="624" dy="34">The reflected and refracted rays are then</tspan><tspan x="624" dy="34">at right angles to each other.</tspan></text>
+    <rect x="624" y="1338" width="536" height="82" rx="14" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
+    <text x="892" y="1376" text-anchor="middle" font-size="28" font-weight="bold" fill="#6E5BB0">Brewster's law:   tan <tspan font-style="italic">i</tspan><tspan baseline-shift="sub" font-size="18">B</tspan> = <tspan font-style="italic">n</tspan></text>
+    <text x="892" y="1406" text-anchor="middle" font-size="18" fill="#4A5D72">For glass of <tspan font-style="italic">n</tspan> = 1.5, the polarising angle is about 56.3°.</text>
+  </g>
+
+  <g id="sec-applications" data-pptx-bounds="80 1438 1080 186">
+    <rect x="80" y="1444" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1469" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Applications of Polarisation</text>
+    <g id="applications-list" fill="#2F3B4A">
+      <text x="80" y="1511">• Polaroid sunglasses and windscreens cut the glare reflected from roads and water.</text>
+      <text x="80" y="1545">• Polarising filters on cameras remove unwanted reflections and deepen the sky.</text>
+      <text x="80" y="1579">• Liquid crystal displays (LCDs) in watches, calculators and screens use polarised light.</text>
+      <text x="80" y="1613">• 3-D cinema glasses, and stress analysis of transparent models (photoelasticity).</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">9</text>
+  </g>
+</svg>

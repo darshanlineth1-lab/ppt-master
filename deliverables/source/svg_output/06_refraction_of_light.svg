@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/eyeglasses" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Refraction of Light</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="lead-refraction" data-pptx-bounds="80 205 1080 84">
+    <text x="80" y="240" fill="#2F3B4A"><tspan font-weight="bold" fill="#2C6C9E">Refraction</tspan> is the bending of light when it passes obliquely from one transparent medium<tspan x="80" dy="34">into another. It happens because light travels with different speeds in different media.</tspan></text>
+  </g>
+
+  <g id="sec-laws" data-pptx-bounds="80 306 520 384">
+    <rect x="80" y="319" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="344" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Laws of Refraction</text>
+    <rect x="80" y="368" width="520" height="322" rx="16" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="104" y="410" fill="#2F3B4A"><tspan font-weight="bold" fill="#B8456F">1.</tspan> The incident ray, the refracted ray<tspan x="104" dy="34">and the normal at the point of</tspan><tspan x="104" dy="34">incidence all lie in the same plane.</tspan></text>
+    <text x="104" y="526" fill="#2F3B4A"><tspan font-weight="bold" fill="#B8456F">2. Snell's law:</tspan> for a given pair of<tspan x="104" dy="34">media and a given colour of light, the</tspan><tspan x="104" dy="34">ratio of sin <tspan font-style="italic">i</tspan> to sin <tspan font-style="italic">r</tspan> is a constant.</tspan></text>
+    <text x="104" y="640" font-size="20" font-style="italic" fill="#4A5D72">This constant is the refractive index of the<tspan x="104" dy="26">second medium with respect to the first.</tspan></text>
+  </g>
+  <g id="snell-diagram" data-pptx-bounds="620 318 540 372">
+    <rect x="620" y="318" width="540" height="372" rx="16" fill="#FFFFFF" stroke="#CFE6F7" stroke-width="1.5"/>
+    <path d="M622 500 H1158 V674 A14 14 0 0 1 1144 688 H636 A14 14 0 0 1 622 674 Z" fill="#DCEFFB"/>
+    <line x1="622" y1="500" x2="1158" y2="500" stroke="#5AA9E0" stroke-width="3"/>
+    <line x1="890" y1="340" x2="890" y2="664" stroke="#7F93A8" stroke-width="2" stroke-dasharray="6 4"/>
+    <g id="snell-rays" stroke="#D95C86" stroke-width="3">
+      <line x1="735" y1="345" x2="816" y2="426" marker-end="url(#arRose)"/>
+      <line x1="816" y1="426" x2="890" y2="500"/>
+      <line x1="890" y1="500" x2="932.7" y2="580" marker-end="url(#arRose)"/>
+      <line x1="932.7" y1="580" x2="970" y2="650"/>
+    </g>
+    <path d="M890 440 A60 60 0 0 0 847.6 457.6 M890 570 A70 70 0 0 0 923 561.7" fill="none" stroke="#6E5BB0" stroke-width="2"/>
+    <g id="snell-labels" font-size="20" fill="#2F3B4A">
+      <text x="862" y="430" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">i</text>
+      <text x="910" y="600" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">r</text>
+      <text x="902" y="356">Normal</text>
+      <text x="646" y="400">Incident ray</text>
+      <text x="986" y="632">Refracted ray</text>
+      <text x="646" y="482" font-weight="bold" fill="#2C5F8A">Air (rarer), <tspan font-style="italic">n</tspan><tspan baseline-shift="sub" font-size="14">1</tspan></text>
+      <text x="646" y="536" font-weight="bold" fill="#2C5F8A">Glass (denser), <tspan font-style="italic">n</tspan><tspan baseline-shift="sub" font-size="14">2</tspan></text>
+      <text x="1136" y="482" text-anchor="end">Interface</text>
+    </g>
+  </g>
+
+  <g id="tile-snell" data-pptx-bounds="80 712 344 106">
+    <rect x="80" y="712" width="344" height="106" rx="14" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="252" y="738" text-anchor="middle" font-size="18" fill="#6C8198">Snell's law</text>
+    <g id="f-snell" data-pptx-replace-with="formula" data-pptx-x="100" data-pptx-y="744" data-pptx-width="304" data-pptx-height="70" data-pptx-bounds="100 744 304 70" font-size="22" font-weight="bold" fill="#2C5F8A" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"\\frac{\\sin i}{\\sin r}=\\frac{n_2}{n_1}","display":"block","font_size":24,"color":"#2C5F8A","align":"center"}]]></metadata>
+      <text x="208" y="770">sin <tspan font-style="italic">i</tspan></text>
+      <text x="208" y="804">sin <tspan font-style="italic">r</tspan></text>
+      <text x="260" y="788">=</text>
+      <text x="304" y="770" font-style="italic">n<tspan baseline-shift="sub" font-size="14">2</tspan></text>
+      <text x="304" y="804" font-style="italic">n<tspan baseline-shift="sub" font-size="14">1</tspan></text>
+      <path d="M178 779 H238 M284 779 H324" fill="none" stroke="#2C5F8A" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="tile-index" data-pptx-bounds="448 712 344 106">
+    <rect x="448" y="712" width="344" height="106" rx="14" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="620" y="738" text-anchor="middle" font-size="18" fill="#6C8198">Absolute refractive index</text>
+    <g id="f-index" data-pptx-replace-with="formula" data-pptx-x="468" data-pptx-y="744" data-pptx-width="304" data-pptx-height="70" data-pptx-bounds="468 744 304 70" font-size="22" font-weight="bold" fill="#B8456F" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"n=\\frac{c}{v}","display":"block","font_size":24,"color":"#B8456F","align":"center"}]]></metadata>
+      <text x="596" y="788" font-style="italic">n  =</text>
+      <text x="646" y="770" font-style="italic">c</text>
+      <text x="646" y="804" font-style="italic">v</text>
+      <path d="M630 779 H662" fill="none" stroke="#B8456F" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="tile-relative" data-pptx-bounds="816 712 344 106">
+    <rect x="816" y="712" width="344" height="106" rx="14" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
+    <text x="988" y="738" text-anchor="middle" font-size="18" fill="#6C8198">Relative refractive index</text>
+    <g id="f-relative" data-pptx-replace-with="formula" data-pptx-x="836" data-pptx-y="744" data-pptx-width="304" data-pptx-height="70" data-pptx-bounds="836 744 304 70" font-size="22" font-weight="bold" fill="#6E5BB0" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"n_{21}=\\frac{v_1}{v_2}=\\frac{\\lambda_1}{\\lambda_2}","display":"block","font_size":24,"color":"#6E5BB0","align":"center"}]]></metadata>
+      <text x="914" y="788" font-style="italic">n<tspan baseline-shift="sub" font-size="14">21</tspan>  =</text>
+      <text x="976" y="770" font-style="italic">v<tspan baseline-shift="sub" font-size="14">1</tspan></text>
+      <text x="976" y="804" font-style="italic">v<tspan baseline-shift="sub" font-size="14">2</tspan></text>
+      <text x="1016" y="788">=</text>
+      <text x="1056" y="770" font-style="italic">λ<tspan baseline-shift="sub" font-size="14">1</tspan></text>
+      <text x="1056" y="804" font-style="italic">λ<tspan baseline-shift="sub" font-size="14">2</tspan></text>
+      <path d="M958 779 H994 M1038 779 H1074" fill="none" stroke="#6E5BB0" stroke-width="2"/>
+    </g>
+  </g>
+
+  <g id="sec-optical-density" data-pptx-bounds="80 840 640 256">
+    <rect x="80" y="846" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="871" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Refractive Index and Optical Density</text>
+    <text x="80" y="917" fill="#2F3B4A">The absolute refractive index <tspan font-style="italic">n</tspan> of a medium is the<tspan x="80" dy="34">ratio of the speed of light in vacuum to its speed in</tspan><tspan x="80" dy="34">that medium. A medium with a larger <tspan font-style="italic">n</tspan> is <tspan font-weight="bold" fill="#2C6C9E">optically</tspan></tspan><tspan x="80" dy="34"><tspan font-weight="bold" fill="#2C6C9E">denser</tspan>: light travels more slowly in it. Optical density</tspan><tspan x="80" dy="34">is not mass density. Turpentine is optically denser</tspan><tspan x="80" dy="34">than water, although its mass density is lower.</tspan></text>
+  </g>
+  <g id="index-values" data-pptx-bounds="750 892 410 204">
+    <rect x="750" y="892" width="410" height="204" rx="14" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <path d="M750 936 V906 A14 14 0 0 1 764 892 H1146 A14 14 0 0 1 1160 906 V936 Z" fill="#DCEFFB"/>
+    <path d="M770 976 H1140 M770 1016 H1140 M770 1056 H1140" fill="none" stroke="#CFE6F7" stroke-width="1.5"/>
+    <text x="770" y="922" font-size="20" font-weight="bold" fill="#2C5F8A">Medium</text>
+    <text x="1140" y="922" text-anchor="end" font-size="20" font-weight="bold" fill="#2C5F8A">Refractive index</text>
+    <g id="index-values-media" font-size="22" fill="#2F3B4A">
+      <text x="770" y="964">Air</text>
+      <text x="770" y="1004">Water</text>
+      <text x="770" y="1044">Crown glass</text>
+      <text x="770" y="1084">Diamond</text>
+    </g>
+    <g id="index-values-numbers" font-size="22" fill="#2F3B4A" text-anchor="end">
+      <text x="1140" y="964">1.0003</text>
+      <text x="1140" y="1004">1.33</text>
+      <text x="1140" y="1044">1.52</text>
+      <text x="1140" y="1084">2.42</text>
+    </g>
+  </g>
+
+  <g id="sec-slab" data-pptx-bounds="80 1116 1080 500">
+    <rect x="80" y="1122" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1147" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Refraction through a Rectangular Glass Slab</text>
+    <rect x="80" y="1172" width="520" height="444" rx="16" fill="#FFFFFF" stroke="#CFE6F7" stroke-width="1.5"/>
+    <rect x="130" y="1300" width="420" height="170" fill="#DCEFFB" stroke="#7DBDEA" stroke-width="2.5"/>
+    <path d="M250 1220 V1380 M340.8 1390 V1556" fill="none" stroke="#7F93A8" stroke-width="2" stroke-dasharray="6 4"/>
+    <line x1="250" y1="1300" x2="530" y2="1580" stroke="#D95C86" stroke-width="1.5" stroke-dasharray="6 4"/>
+    <g id="slab-rays" stroke="#D95C86" stroke-width="3">
+      <line x1="160" y1="1210" x2="212" y2="1262" marker-end="url(#arRose)"/>
+      <line x1="212" y1="1262" x2="250" y2="1300"/>
+      <line x1="250" y1="1300" x2="300" y2="1393.6" marker-end="url(#arRose)"/>
+      <line x1="300" y1="1393.6" x2="340.8" y2="1470"/>
+      <line x1="340.8" y1="1470" x2="400" y2="1529.2" marker-end="url(#arRose)"/>
+      <line x1="400" y1="1529.2" x2="450.8" y2="1580"/>
+    </g>
+    <path d="M250 1250 A50 50 0 0 0 214.6 1264.6 M250 1360 A60 60 0 0 0 278.3 1352.9 M340.8 1520 A50 50 0 0 0 376.2 1505.4" fill="none" stroke="#6E5BB0" stroke-width="2"/>
+    <line x1="430" y1="1559.2" x2="469.6" y2="1519.6" stroke="#2C5F8A" stroke-width="2.5"/>
+    <path d="M572 1300 V1470 M564 1300 H580 M564 1470 H580" fill="none" stroke="#7F93A8" stroke-width="2"/>
+    <g id="slab-labels" font-size="20" fill="#2F3B4A">
+      <text x="226" y="1240" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">i</text>
+      <text x="264" y="1388" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">r</text>
+      <text x="358" y="1544" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">e</text>
+      <text x="432" y="1530" text-anchor="middle" font-style="italic" font-weight="bold" fill="#2C5F8A">d</text>
+      <text x="584" y="1392" text-anchor="middle" font-style="italic" font-weight="bold" fill="#4A5D72">t</text>
+      <text x="180" y="1204">Incident ray</text>
+      <text x="300" y="1594">Emergent ray</text>
+      <text x="420" y="1340" font-weight="bold" fill="#2C5F8A">Glass slab</text>
+      <text x="470" y="1282" font-weight="bold" fill="#2C5F8A">Air</text>
+      <text x="140" y="1502" font-weight="bold" fill="#2C5F8A">Air</text>
+    </g>
+    <g id="slab-text" fill="#2F3B4A">
+      <text x="624" y="1206">•</text>
+      <text x="644" y="1206">Entering the glass (rarer to denser), the<tspan x="644" dy="34">ray bends towards the normal: <tspan font-style="italic">r &lt; i</tspan>.</tspan></text>
+      <text x="624" y="1286">•</text>
+      <text x="644" y="1286">On leaving, it bends away from the normal.</text>
+      <text x="624" y="1332">•</text>
+      <text x="644" y="1332">The two faces are parallel, so the angle<tspan x="644" dy="34">of emergence equals the angle of</tspan><tspan x="644" dy="34">incidence: <tspan font-style="italic">e = i</tspan>.</tspan></text>
+      <text x="624" y="1446">•</text>
+      <text x="644" y="1446">The emergent ray is parallel to the incident<tspan x="644" dy="34">ray but is shifted sideways by a distance <tspan font-style="italic">d</tspan>.</tspan></text>
+    </g>
+    <rect x="624" y="1510" width="536" height="106" rx="14" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="892" y="1536" text-anchor="middle" font-size="18" fill="#6C8198">Lateral shift for a slab of thickness t</text>
+    <g id="f-shift" data-pptx-replace-with="formula" data-pptx-x="700" data-pptx-y="1542" data-pptx-width="384" data-pptx-height="70" data-pptx-bounds="700 1542 384 70" font-size="22" font-weight="bold" fill="#2C5F8A" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"d=\\frac{t\\sin(i-r)}{\\cos r}","display":"block","font_size":24,"color":"#2C5F8A","align":"center"}]]></metadata>
+      <text x="828" y="1586" font-style="italic">d  =</text>
+      <text x="922" y="1568"><tspan font-style="italic">t</tspan> sin (<tspan font-style="italic">i − r</tspan>)</text>
+      <text x="922" y="1602">cos <tspan font-style="italic">r</tspan></text>
+      <path d="M862 1577 H982" fill="none" stroke="#2C5F8A" stroke-width="2"/>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">6</text>
+  </g>
+</svg>

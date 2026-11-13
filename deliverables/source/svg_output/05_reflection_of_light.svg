@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/flashlight" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Reflection of Light</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="lead-reflection" data-pptx-bounds="80 205 1080 84">
+    <text x="80" y="240" fill="#2F3B4A"><tspan font-weight="bold" fill="#2C6C9E">Reflection</tspan> is the bouncing back of light into the same medium when it strikes a surface.<tspan x="80" dy="34">A smooth, polished surface such as a mirror reflects most of the light falling on it.</tspan></text>
+  </g>
+
+  <g id="sec-laws" data-pptx-bounds="80 306 520 326">
+    <rect x="80" y="319" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="344" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Laws of Reflection</text>
+    <rect x="80" y="368" width="520" height="262" rx="16" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="104" y="410" fill="#2F3B4A"><tspan font-weight="bold" fill="#B8456F">1.</tspan> The angle of incidence is equal to<tspan x="104" dy="34">the angle of reflection:  <tspan font-weight="bold" font-style="italic" fill="#B8456F">i = r</tspan>.</tspan></text>
+    <text x="104" y="492" fill="#2F3B4A"><tspan font-weight="bold" fill="#B8456F">2.</tspan> The incident ray, the reflected ray<tspan x="104" dy="34">and the normal at the point of</tspan><tspan x="104" dy="34">incidence all lie in the same plane.</tspan></text>
+    <text x="104" y="608" font-size="20" font-style="italic" fill="#4A5D72">Both laws hold for curved mirrors as well.</text>
+  </g>
+  <g id="laws-diagram" data-pptx-bounds="620 318 540 312">
+    <rect x="620" y="318" width="540" height="312" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <path d="M690 560 l-14 18 M720 560 l-14 18 M750 560 l-14 18 M780 560 l-14 18 M810 560 l-14 18 M840 560 l-14 18 M870 560 l-14 18 M900 560 l-14 18 M930 560 l-14 18 M960 560 l-14 18 M990 560 l-14 18 M1020 560 l-14 18 M1050 560 l-14 18 M1080 560 l-14 18 M1110 560 l-14 18" fill="none" stroke="#9FC9EC" stroke-width="2"/>
+    <line x1="670" y1="560" x2="1110" y2="560" stroke="#5AA9E0" stroke-width="5"/>
+    <line x1="890" y1="366" x2="890" y2="560" stroke="#7F93A8" stroke-width="2" stroke-dasharray="6 4"/>
+    <g id="laws-rays" stroke="#D95C86" stroke-width="3">
+      <line x1="730" y1="400" x2="818" y2="488" marker-end="url(#arRose)"/>
+      <line x1="818" y1="488" x2="890" y2="560"/>
+      <line x1="890" y1="560" x2="978" y2="472" marker-end="url(#arRose)"/>
+      <line x1="978" y1="472" x2="1050" y2="400"/>
+    </g>
+    <path d="M890 500 A60 60 0 0 0 847.6 517.6 M890 500 A60 60 0 0 1 932.4 517.6" fill="none" stroke="#6E5BB0" stroke-width="2"/>
+    <g id="laws-labels" font-size="20" fill="#2F3B4A">
+      <text x="860" y="492" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">i</text>
+      <text x="921" y="492" text-anchor="middle" font-style="italic" font-weight="bold" fill="#6E5BB0">r</text>
+      <text x="890" y="354" text-anchor="middle">Normal</text>
+      <text x="660" y="388">Incident ray</text>
+      <text x="1120" y="388" text-anchor="end">Reflected ray</text>
+      <text x="890" y="608" text-anchor="middle">Plane mirror</text>
+    </g>
+  </g>
+
+  <g id="sec-regular-diffused" data-pptx-bounds="80 660 1080 284">
+    <rect x="80" y="674" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="699" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Regular and Diffused Reflection</text>
+    <rect x="80" y="722" width="528" height="220" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <rect x="632" y="722" width="528" height="220" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <line x1="130" y1="852" x2="558" y2="852" stroke="#5AA9E0" stroke-width="5"/>
+    <path d="M682 852 l30 -8 l28 12 l30 -14 l26 12 l32 -10 l28 12 l30 -12 l28 10 l32 -8 l30 10 l28 -10 l30 8 l34 -6" fill="none" stroke="#5AA9E0" stroke-width="5" stroke-linejoin="round"/>
+    <g id="regular-rays" stroke="#D95C86" stroke-width="3">
+      <line x1="150" y1="760" x2="183" y2="814" marker-end="url(#arRose)"/>
+      <line x1="183" y1="814" x2="205" y2="850"/>
+      <line x1="205" y1="850" x2="238" y2="796" marker-end="url(#arRose)"/>
+      <line x1="238" y1="796" x2="260" y2="760"/>
+      <line x1="280" y1="760" x2="313" y2="814" marker-end="url(#arRose)"/>
+      <line x1="313" y1="814" x2="335" y2="850"/>
+      <line x1="335" y1="850" x2="368" y2="796" marker-end="url(#arRose)"/>
+      <line x1="368" y1="796" x2="390" y2="760"/>
+      <line x1="410" y1="760" x2="443" y2="814" marker-end="url(#arRose)"/>
+      <line x1="443" y1="814" x2="465" y2="850"/>
+      <line x1="465" y1="850" x2="498" y2="796" marker-end="url(#arRose)"/>
+      <line x1="498" y1="796" x2="520" y2="760"/>
+    </g>
+    <g id="diffused-rays" stroke="#D95C86" stroke-width="3">
+      <line x1="712" y1="756" x2="762" y2="806" marker-end="url(#arRose)"/>
+      <line x1="762" y1="806" x2="800" y2="844"/>
+      <line x1="800" y1="844" x2="772" y2="752" marker-end="url(#arRose)"/>
+      <line x1="800" y1="756" x2="850" y2="806" marker-end="url(#arRose)"/>
+      <line x1="850" y1="806" x2="886" y2="842"/>
+      <line x1="886" y1="842" x2="960" y2="756" marker-end="url(#arRose)"/>
+      <line x1="882" y1="756" x2="932" y2="806" marker-end="url(#arRose)"/>
+      <line x1="932" y1="806" x2="970" y2="844"/>
+      <line x1="970" y1="844" x2="1090" y2="790" marker-end="url(#arRose)"/>
+    </g>
+    <g id="regular-diffused-captions" text-anchor="middle">
+      <text x="344" y="894" font-size="22" font-weight="bold" fill="#2C5F8A">Regular reflection</text>
+      <text x="344" y="922" font-size="20" fill="#4A5D72">Smooth surface: parallel rays remain parallel</text>
+      <text x="896" y="894" font-size="22" font-weight="bold" fill="#2C5F8A">Diffused (irregular) reflection</text>
+      <text x="896" y="922" font-size="20" fill="#4A5D72">Rough surface: rays scatter in many directions</text>
+    </g>
+  </g>
+
+  <g id="sec-curved" data-pptx-bounds="80 968 1080 336">
+    <rect x="80" y="980" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1005" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Reflection from Curved (Spherical) Mirrors</text>
+    <rect x="80" y="1028" width="528" height="274" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <rect x="632" y="1028" width="528" height="274" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <path d="M110 1132 H584 M662 1132 H1134" fill="none" stroke="#7F93A8" stroke-width="1.5" stroke-dasharray="8 4"/>
+    <path d="M516.6 1038.1 A200 200 0 0 1 516.6 1225.9" fill="none" stroke="#5AA9E0" stroke-width="6" stroke-linecap="round"/>
+    <path d="M883.4 1038.1 A200 200 0 0 0 883.4 1225.9" fill="none" stroke="#5AA9E0" stroke-width="6" stroke-linecap="round"/>
+    <g id="concave-rays" stroke="#D95C86" stroke-width="3">
+      <line x1="120" y1="1082" x2="330" y2="1082" marker-end="url(#arRose)"/>
+      <line x1="330" y1="1082" x2="533.6" y2="1082"/>
+      <line x1="533.6" y1="1082" x2="477" y2="1112.2" marker-end="url(#arRose)"/>
+      <line x1="477" y1="1112.2" x2="383.8" y2="1162"/>
+      <line x1="120" y1="1182" x2="330" y2="1182" marker-end="url(#arRose)"/>
+      <line x1="330" y1="1182" x2="533.6" y2="1182"/>
+      <line x1="533.6" y1="1182" x2="477" y2="1151.8" marker-end="url(#arRose)"/>
+      <line x1="477" y1="1151.8" x2="383.8" y2="1102"/>
+    </g>
+    <g id="convex-rays" stroke="#D95C86" stroke-width="3">
+      <line x1="662" y1="1082" x2="780" y2="1082" marker-end="url(#arRose)"/>
+      <line x1="780" y1="1082" x2="866.4" y2="1082"/>
+      <line x1="866.4" y1="1082" x2="790" y2="1041.2" marker-end="url(#arRose)"/>
+      <line x1="662" y1="1182" x2="780" y2="1182" marker-end="url(#arRose)"/>
+      <line x1="780" y1="1182" x2="866.4" y2="1182"/>
+      <line x1="866.4" y1="1182" x2="790" y2="1222.8" marker-end="url(#arRose)"/>
+      <path d="M866.4 1082 L960 1132 L866.4 1182" fill="none" stroke-width="1.5" stroke-dasharray="6 4"/>
+    </g>
+    <g id="mirror-points" fill="#2C5F8A">
+      <circle cx="340" cy="1132" r="5"/>
+      <circle cx="440" cy="1132" r="5"/>
+      <circle cx="540" cy="1132" r="5"/>
+      <circle cx="860" cy="1132" r="5"/>
+      <circle cx="960" cy="1132" r="5"/>
+      <circle cx="1060" cy="1132" r="5"/>
+    </g>
+    <g id="mirror-labels" font-size="20" font-weight="bold" fill="#2C5F8A" text-anchor="middle">
+      <text x="340" y="1164">C</text>
+      <text x="440" y="1166">F</text>
+      <text x="562" y="1140">P</text>
+      <text x="842" y="1162">P</text>
+      <text x="960" y="1164">F</text>
+      <text x="1060" y="1164">C</text>
+    </g>
+    <g id="mirror-captions" text-anchor="middle">
+      <text x="344" y="1258" font-size="22" font-weight="bold" fill="#2C5F8A">Concave mirror</text>
+      <text x="344" y="1286" font-size="20" fill="#4A5D72">Parallel rays converge at the principal focus F</text>
+      <text x="896" y="1258" font-size="22" font-weight="bold" fill="#2C5F8A">Convex mirror</text>
+      <text x="896" y="1286" font-size="20" fill="#4A5D72">Parallel rays appear to diverge from F</text>
+    </g>
+  </g>
+
+  <g id="tile-mirror-formula" data-pptx-bounds="80 1324 344 106">
+    <rect x="80" y="1324" width="344" height="106" rx="14" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="252" y="1350" text-anchor="middle" font-size="18" fill="#6C8198">Mirror formula</text>
+    <g id="f-mirror" data-pptx-replace-with="formula" data-pptx-x="100" data-pptx-y="1356" data-pptx-width="304" data-pptx-height="70" data-pptx-bounds="100 1356 304 70" font-size="22" font-weight="bold" fill="#2C5F8A" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"\\frac{1}{v}+\\frac{1}{u}=\\frac{1}{f}","display":"block","font_size":24,"color":"#2C5F8A","align":"center"}]]></metadata>
+      <text x="176" y="1382">1</text>
+      <text x="176" y="1416" font-style="italic">v</text>
+      <text x="214" y="1400">+</text>
+      <text x="252" y="1382">1</text>
+      <text x="252" y="1416" font-style="italic">u</text>
+      <text x="290" y="1400">=</text>
+      <text x="328" y="1382">1</text>
+      <text x="328" y="1416" font-style="italic">f</text>
+      <path d="M160 1391 H192 M236 1391 H268 M312 1391 H344" fill="none" stroke="#2C5F8A" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="tile-focal" data-pptx-bounds="448 1324 344 106">
+    <rect x="448" y="1324" width="344" height="106" rx="14" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="620" y="1350" text-anchor="middle" font-size="18" fill="#6C8198">Focal length and radius of curvature</text>
+    <g id="f-focal" data-pptx-replace-with="formula" data-pptx-x="468" data-pptx-y="1356" data-pptx-width="304" data-pptx-height="70" data-pptx-bounds="468 1356 304 70" font-size="22" font-weight="bold" fill="#B8456F" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"f=\\frac{R}{2}","display":"block","font_size":24,"color":"#B8456F","align":"center"}]]></metadata>
+      <text x="596" y="1400" font-style="italic">f  =</text>
+      <text x="646" y="1382" font-style="italic">R</text>
+      <text x="646" y="1416">2</text>
+      <path d="M630 1391 H662" fill="none" stroke="#B8456F" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="tile-magnification" data-pptx-bounds="816 1324 344 106">
+    <rect x="816" y="1324" width="344" height="106" rx="14" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
+    <text x="988" y="1350" text-anchor="middle" font-size="18" fill="#6C8198">Linear magnification</text>
+    <g id="f-magnification" data-pptx-replace-with="formula" data-pptx-x="836" data-pptx-y="1356" data-pptx-width="304" data-pptx-height="70" data-pptx-bounds="836 1356 304 70" font-size="22" font-weight="bold" fill="#6E5BB0" text-anchor="middle">
+      <metadata type="application/json"><![CDATA[{"latex":"m=\\frac{h'}{h}=-\\frac{v}{u}","display":"block","font_size":24,"color":"#6E5BB0","align":"center"}]]></metadata>
+      <text x="912" y="1400" font-style="italic">m  =</text>
+      <text x="964" y="1382" font-style="italic">h′</text>
+      <text x="964" y="1416" font-style="italic">h</text>
+      <text x="1010" y="1400">=  −</text>
+      <text x="1056" y="1382" font-style="italic">v</text>
+      <text x="1056" y="1416" font-style="italic">u</text>
+      <path d="M948 1391 H980 M1040 1391 H1072" fill="none" stroke="#6E5BB0" stroke-width="2"/>
+    </g>
+  </g>
+
+  <g id="sec-applications" data-pptx-bounds="80 1452 1080 166">
+    <rect x="80" y="1464" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1489" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Applications of Reflection</text>
+    <g id="applications-list" fill="#2F3B4A">
+      <text x="80" y="1533">• <tspan font-weight="bold" fill="#2C5F8A">Plane mirrors:</tspan> looking glasses, periscopes and kaleidoscopes.</text>
+      <text x="80" y="1569">• <tspan font-weight="bold" fill="#2C5F8A">Concave mirrors:</tspan> shaving and dental mirrors, headlight reflectors, solar furnaces.</text>
+      <text x="80" y="1605">• <tspan font-weight="bold" fill="#2C5F8A">Convex mirrors:</tspan> rear-view and road-safety mirrors with a wide field of view.</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">5</text>
+  </g>
+</svg>

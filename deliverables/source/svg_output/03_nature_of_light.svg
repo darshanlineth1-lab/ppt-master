@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+    <marker id="arGrey" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="10" refX="12" refY="5" orient="auto">
+      <polygon points="0,0 14,5 0,10" fill="#7F93A8"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/atom" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Nature of Light</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="def-light" data-pptx-bounds="80 205 1080 136">
+    <rect x="80" y="205" width="1080" height="136" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="108" y="246" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">What is Light?</text>
+    <text x="108" y="286" fill="#2F3B4A">Light is <tspan font-weight="bold" fill="#2C6C9E">electromagnetic radiation</tspan> that the human eye can detect, with wavelengths<tspan x="108" dy="34">from about 400 nm (violet) to 700 nm (red). It needs no material medium to travel.</tspan></text>
+  </g>
+
+  <g id="sec-em-text" data-pptx-bounds="80 372 500 320">
+    <rect x="80" y="386" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="411" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Electromagnetic Nature</text>
+    <text x="80" y="457" fill="#2F3B4A">Maxwell showed that light is an<tspan x="80" dy="34">electromagnetic wave: a time-varying</tspan><tspan x="80" dy="34">electric field <tspan font-weight="bold" fill="#C2527C">E</tspan> and magnetic field <tspan font-weight="bold" fill="#2C6C9E">B</tspan> that</tspan><tspan x="80" dy="34">sustain each other and travel together</tspan><tspan x="80" dy="34">through space. Its speed in vacuum is</tspan><tspan x="80" dy="34">fixed by the constants μ<tspan baseline-shift="sub" font-size="16">0</tspan> and ε<tspan baseline-shift="sub" font-size="16">0</tspan> of free</tspan><tspan x="80" dy="34">space.</tspan></text>
+  </g>
+  <g id="em-wave-diagram" data-pptx-bounds="600 372 560 320">
+    <rect x="600" y="372" width="560" height="320" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <line x1="630" y1="525" x2="1126" y2="525" stroke="#7F93A8" stroke-width="2" marker-end="url(#arGrey)"/>
+    <g id="em-b-field" stroke="#4A90D9" fill="none">
+      <path d="M650 525 q-37 63 80 0 t80 0 t80 0 t80 0 t80 0" stroke-width="3.5"/>
+      <path d="M690 525 L651.5 556.5 M770 525 L808.5 493.5 M850 525 L811.5 556.5 M930 525 L968.5 493.5 M1010 525 L971.5 556.5" stroke-width="1.5"/>
+    </g>
+    <g id="em-e-field" stroke="#E0668F" fill="none">
+      <path d="M650 525 q40 -150 80 0 t80 0 t80 0 t80 0 t80 0" stroke-width="3.5"/>
+      <path d="M690 525 V450 M770 525 V600 M850 525 V450 M930 525 V600 M1010 525 V450" stroke-width="1.5"/>
+    </g>
+    <g id="em-labels" font-size="20">
+      <text x="640" y="428" fill="#C2527C"><tspan font-weight="bold" font-style="italic">E</tspan> (electric field)</text>
+      <text x="632" y="642" fill="#2C6C9E"><tspan font-weight="bold" font-style="italic">B</tspan> (magnetic field)</text>
+      <text x="1134" y="532" font-style="italic" fill="#4A5D72">x</text>
+      <text x="880" y="676" text-anchor="middle" font-size="18" fill="#4A5D72">E and B are perpendicular to each other and to x.</text>
+    </g>
+  </g>
+
+  <g id="tile-speed" data-pptx-bounds="80 716 344 116">
+    <rect x="80" y="716" width="344" height="116" rx="14" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <text x="252" y="744" text-anchor="middle" font-size="18" fill="#6C8198">Speed of light in vacuum</text>
+    <g id="f-speed" data-pptx-replace-with="formula" data-pptx-x="100" data-pptx-y="752" data-pptx-width="304" data-pptx-height="74" data-pptx-bounds="100 752 304 74">
+      <metadata type="application/json"><![CDATA[{"latex":"c=\\frac{1}{\\sqrt{\\mu_0\\varepsilon_0}}","display":"block","font_size":26,"color":"#2C5F8A","align":"center"}]]></metadata>
+      <text x="222" y="798" text-anchor="end" font-size="28" font-style="italic" font-weight="bold" fill="#2C5F8A">c =</text>
+      <text x="290" y="782" text-anchor="middle" font-size="22" font-weight="bold" fill="#2C5F8A">1</text>
+      <line x1="236" y1="790" x2="344" y2="790" stroke="#2C5F8A" stroke-width="2"/>
+      <text x="290" y="816" text-anchor="middle" font-size="22" font-style="italic" font-weight="bold" fill="#2C5F8A">√(μ<tspan baseline-shift="sub" font-size="14">0</tspan>ε<tspan baseline-shift="sub" font-size="14">0</tspan>)</text>
+    </g>
+  </g>
+  <g id="tile-wave" data-pptx-bounds="448 716 344 116">
+    <rect x="448" y="716" width="344" height="116" rx="14" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="620" y="744" text-anchor="middle" font-size="18" fill="#6C8198">Speed, frequency and wavelength</text>
+    <text x="620" y="800" text-anchor="middle" font-size="32" font-style="italic" font-weight="bold" fill="#B8456F">c = νλ</text>
+  </g>
+  <g id="tile-fields" data-pptx-bounds="816 716 344 116">
+    <rect x="816" y="716" width="344" height="116" rx="14" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
+    <text x="988" y="744" text-anchor="middle" font-size="18" fill="#6C8198">Field amplitudes</text>
+    <text x="988" y="800" text-anchor="middle" font-size="32" font-style="italic" font-weight="bold" fill="#6E5BB0">E<tspan baseline-shift="sub" font-size="20">0</tspan> = cB<tspan baseline-shift="sub" font-size="20">0</tspan></text>
+  </g>
+
+  <g id="sec-duality" data-pptx-bounds="80 862 1080 230">
+    <rect x="80" y="874" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="899" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Wave–Particle Duality</text>
+    <rect x="80" y="924" width="528" height="118" rx="14" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <rect x="632" y="924" width="528" height="118" rx="14" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <use data-icon="phosphor-duotone/wave-sine" x="102" y="946" width="48" height="48" fill="#5AA9E0"/>
+    <use data-icon="phosphor-duotone/sparkle" x="654" y="946" width="48" height="48" fill="#D9739A"/>
+    <text x="166" y="962" font-weight="bold" fill="#2C5F8A">Wave nature</text>
+    <text x="166" y="994" font-size="20" fill="#2F3B4A">Shown by interference, diffraction<tspan x="166" dy="26">and polarisation of light.</tspan></text>
+    <text x="718" y="962" font-weight="bold" fill="#B8456F">Particle nature</text>
+    <text x="718" y="994" font-size="20" fill="#2F3B4A">Shown by the photoelectric effect:<tspan x="718" dy="26">light consists of photons of energy <tspan font-style="italic">E = hν</tspan>.</tspan></text>
+    <text x="80" y="1080" fill="#2F3B4A">Light therefore has a dual nature (<tspan font-style="italic">h</tspan> = 6.63 × 10<tspan baseline-shift="super" font-size="16">−34</tspan> J s is Planck's constant, <tspan font-style="italic">ν</tspan> the frequency).</text>
+  </g>
+
+  <g id="sec-transverse" data-pptx-bounds="80 1112 1080 166">
+    <rect x="80" y="1124" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1149" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Transverse Nature of Light Waves</text>
+    <text x="80" y="1195" fill="#2F3B4A">In a light wave the electric and magnetic fields vibrate at right angles to each other<tspan x="80" dy="34">and to the direction of propagation, so light is a <tspan font-weight="bold" fill="#2C6C9E">transverse wave</tspan>. Polarisation, which</tspan><tspan x="80" dy="34">is possible only for transverse waves, is the direct experimental proof.</tspan></text>
+  </g>
+
+  <g id="sec-properties" data-pptx-bounds="80 1298 1080 300">
+    <rect x="80" y="1310" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <text x="102" y="1335" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Basic Properties of Electromagnetic Waves</text>
+    <g id="properties-list" fill="#2F3B4A">
+      <text x="80" y="1381">• They are produced by accelerated (oscillating) charges and need no material medium.</text>
+      <text x="80" y="1419">• E, B and the direction of propagation are mutually perpendicular; E and B are in phase.</text>
+      <text x="80" y="1457">• In vacuum they all travel with the same speed, <tspan font-style="italic">c</tspan> = 3 × 10<tspan baseline-shift="super" font-size="16">8</tspan> m s<tspan baseline-shift="super" font-size="16">−1</tspan>.</text>
+      <text x="80" y="1495">• The amplitudes of the two fields are related by <tspan font-style="italic">E</tspan><tspan baseline-shift="sub" font-size="16">0</tspan> = <tspan font-style="italic">cB</tspan><tspan baseline-shift="sub" font-size="16">0</tspan>.</text>
+      <text x="80" y="1533">• They carry energy and momentum and are not deflected by electric or magnetic fields.</text>
+      <text x="80" y="1571">• They show reflection, refraction, interference, diffraction and polarisation.</text>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">3</text>
+  </g>
+</svg>
