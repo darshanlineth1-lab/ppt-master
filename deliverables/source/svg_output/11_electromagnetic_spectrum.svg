@@ -135,13 +135,13 @@
     <rect x="80" y="1336" width="8" height="32" rx="4" fill="#EE8FB0"/>
     <text x="102" y="1361" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Points to Remember</text>
     <g id="notes-list" fill="#2F3B4A">
-      <text x="80" y="1405">• The boundaries between regions are approximate and neighbouring regions overlap.</text>
-      <text x="80" y="1441">• Visible light is only a very narrow band of the whole spectrum.</text>
-      <text x="80" y="1477">• The energy of a photon, <tspan font-style="italic">E = hν</tspan>, increases from radio waves to gamma rays.</text>
-      <text x="80" y="1513">• Ultraviolet, X-rays and gamma rays can damage living tissue; the ozone layer</text>
-      <text x="98" y="1547">absorbs most of the Sun's ultraviolet radiation.</text>
-      <text x="80" y="1583">• Radio waves and microwaves come from oscillating circuits; X-rays and gamma rays</text>
-      <text x="98" y="1617">come from inner-shell electrons and atomic nuclei.</text>
+      <text x="80" y="1397">• The boundaries between regions are approximate and neighbouring regions overlap.</text>
+      <text x="80" y="1433">• Visible light is only a very narrow band of the whole spectrum.</text>
+      <text x="80" y="1469">• The energy of a photon, <tspan font-style="italic">E = hν</tspan>, increases from radio waves to gamma rays.</text>
+      <text x="80" y="1505">• Ultraviolet, X-rays and gamma rays can damage living tissue; the ozone layer</text>
+      <text x="98" y="1539">absorbs most of the Sun's ultraviolet radiation.</text>
+      <text x="80" y="1575">• Radio waves and microwaves come from oscillating circuits; X-rays and gamma rays</text>
+      <text x="98" y="1609">come from inner-shell electrons and atomic nuclei.</text>
     </g>
   </g>
 

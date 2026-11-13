@@ -1,39 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
   <defs>
     <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#DCEFFB"/>
-      <stop offset="100%" stop-color="#FCE4EC"/>
+      <stop offset="0%" stop-color="#DCEFFB" />
+      <stop offset="100%" stop-color="#FCE4EC" />
     </linearGradient>
     <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
-      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+      <polygon points="0,0 16,6 0,12" fill="#D95C86" />
     </marker>
   </defs>
-  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF" />
   <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
-    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
-    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
-    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
-    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
-    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
-    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3" />
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5" />
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2" />
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2" />
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2" />
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2" />
   </g>
   <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
-    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
-    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
-    <use data-icon="phosphor-duotone/check-circle" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)" />
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF" />
+    <use data-icon="phosphor-duotone/check-circle" x="118" y="98" width="44" height="44" fill="#5AA9E0" />
     <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
     <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Conclusion</text>
-    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
-    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2" />
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3" />
   </g>
 
   <g id="sec-summary-head" data-pptx-bounds="80 205 1080 44">
-    <rect x="80" y="211" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <rect x="80" y="211" width="8" height="32" rx="4" fill="#EE8FB0" />
     <text x="102" y="236" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Summary of Concepts</text>
   </g>
 
-  <g id="sec-summary" data-pptx-bounds="80 252 1080 486">
-    <g id="summary-bullets" font-size="23" font-weight="bold" fill="#D95C86">
+  <g id="sec-summary" data-pptx-bounds="80 252 1080 486" font-size="23">
+    <g id="summary-bullets" font-weight="bold" fill="#D95C86">
       <text x="84" y="282">•</text>
       <text x="84" y="358">•</text>
       <text x="84" y="434">•</text>
@@ -41,7 +41,7 @@
       <text x="84" y="586">•</text>
       <text x="84" y="662">•</text>
     </g>
-    <g id="summary-text" font-size="23" fill="#2F3B4A">
+    <g id="summary-text" fill="#2F3B4A">
       <text x="108" y="282">Light is a transverse electromagnetic wave that travels in vacuum at 3 × 10<tspan baseline-shift="super" font-size="15">8</tspan> m/s and shows<tspan x="108" dy="32">both wave and particle behaviour.</tspan></text>
       <text x="108" y="358">Huygens' principle treats every point of a wavefront as a source of secondary wavelets and<tspan x="108" dy="32">explains reflection and refraction.</tspan></text>
       <text x="108" y="434">Reflection obeys i = r; refraction obeys Snell's law, and the refractive index measures how<tspan x="108" dy="32">much a medium slows light.</tspan></text>
@@ -52,63 +52,63 @@
   </g>
 
   <g id="sec-wave-head" data-pptx-bounds="80 748 1080 44">
-    <rect x="80" y="754" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <rect x="80" y="754" width="8" height="32" rx="4" fill="#EE8FB0" />
     <text x="102" y="779" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Importance of Wave Optics</text>
   </g>
 
   <g id="card-interference" data-pptx-bounds="80 806 344 230">
-    <rect x="80" y="806" width="344" height="230" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
-    <use data-icon="phosphor-duotone/target" x="100" y="824" width="44" height="44" fill="#5AA9E0"/>
-    <text x="156" y="855" font-family="Georgia" font-size="24" font-weight="bold" fill="#2C5F8A">Interference</text>
+    <rect x="80" y="806" width="344" height="230" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5" />
+    <use data-icon="phosphor-duotone/target" x="100" y="824" width="44" height="44" fill="#5AA9E0" />
+    <text x="156" y="855" font-family="Georgia" font-weight="bold" fill="#2C5F8A">Interference</text>
     <text x="102" y="904" font-size="21" fill="#2F3B4A">Two coherent waves<tspan x="102" dy="29">superpose to give bright and</tspan><tspan x="102" dy="29">dark fringes. It proves the wave</tspan><tspan x="102" dy="29">nature of light and lets us</tspan><tspan x="102" dy="29">measure wavelength.</tspan></text>
   </g>
 
   <g id="card-diffraction" data-pptx-bounds="448 806 344 230">
-    <rect x="448" y="806" width="344" height="230" rx="16" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
-    <use data-icon="phosphor-duotone/aperture" x="468" y="824" width="44" height="44" fill="#D9739A"/>
-    <text x="524" y="855" font-family="Georgia" font-size="24" font-weight="bold" fill="#B8456F">Diffraction</text>
+    <rect x="448" y="806" width="344" height="230" rx="16" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5" />
+    <use data-icon="phosphor-duotone/aperture" x="468" y="824" width="44" height="44" fill="#D9739A" />
+    <text x="524" y="855" font-family="Georgia" font-weight="bold" fill="#B8456F">Diffraction</text>
     <text x="470" y="904" font-size="21" fill="#2F3B4A">Light bends round edges and<tspan x="470" dy="29">spreads into the shadow region.</tspan><tspan x="470" dy="29">It limits the resolving power of</tspan><tspan x="470" dy="29">every optical instrument.</tspan></text>
   </g>
 
   <g id="card-polarisation" data-pptx-bounds="816 806 344 230">
-    <rect x="816" y="806" width="344" height="230" rx="16" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
-    <use data-icon="phosphor-duotone/sun" x="836" y="824" width="44" height="44" fill="#A593D6"/>
-    <text x="892" y="855" font-family="Georgia" font-size="24" font-weight="bold" fill="#6E5BB0">Polarisation</text>
+    <rect x="816" y="806" width="344" height="230" rx="16" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5" />
+    <use data-icon="phosphor-duotone/sun" x="836" y="824" width="44" height="44" fill="#A593D6" />
+    <text x="892" y="855" font-family="Georgia" font-weight="bold" fill="#6E5BB0">Polarisation</text>
     <text x="838" y="904" font-size="21" fill="#2F3B4A">Vibrations are confined to a<tspan x="838" dy="29">single plane. It proves that light</tspan><tspan x="838" dy="29">waves are transverse and is</tspan><tspan x="838" dy="29">used in sunglasses and LCDs.</tspan></text>
   </g>
 
   <g id="sec-life" data-pptx-bounds="80 1058 1080 194">
-    <rect x="80" y="1064" width="8" height="32" rx="4" fill="#EE8FB0"/>
+    <rect x="80" y="1064" width="8" height="32" rx="4" fill="#EE8FB0" />
     <text x="102" y="1089" font-family="Georgia" font-size="28" font-weight="bold" fill="#2C6C9E">Optics in Everyday Life and Technology</text>
     <text x="80" y="1135" fill="#2F3B4A">Optics shapes daily life: spectacles and cameras form images by refraction, mirrors and<tspan x="80" dy="34">headlamps use reflection, optical fibres carry the internet by total internal reflection, and lasers</tspan><tspan x="80" dy="34">serve medicine and industry. Rainbows, the blue of the sky and the colours of soap films are</tspan><tspan x="80" dy="34">everyday displays of dispersion, scattering and interference.</tspan></text>
   </g>
 
   <g id="sec-closing" data-pptx-bounds="80 1268 1080 152">
-    <rect x="80" y="1268" width="1080" height="152" rx="16" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
-    <text x="108" y="1306" font-family="Georgia" font-size="24" font-weight="bold" fill="#5A4A9C">Closing Note</text>
+    <rect x="80" y="1268" width="1080" height="152" rx="16" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5" />
+    <text x="108" y="1306" font-family="Georgia" font-weight="bold" fill="#5A4A9C">Closing Note</text>
     <text x="108" y="1340" font-size="22" fill="#2F3B4A">This project has traced the study of light from simple rays to electromagnetic waves. The wave model<tspan x="108" dy="30">explains interference, diffraction and polarisation, which ray optics cannot, and the double-slit</tspan><tspan x="108" dy="30">investigation shows that the wavelength of light can be measured with simple apparatus.</tspan></text>
   </g>
 
   <g id="motif-prism" data-pptx-bounds="80 1438 1080 184">
-    <rect x="80" y="1438" width="1080" height="184" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
-    <path d="M130 1544 q25 -34 50 0 t50 0 t50 0 t50 0 t50 0 t50 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
-    <line x1="430" y1="1544" x2="592" y2="1522" stroke="#7F93A8" stroke-width="3.5"/>
-    <path d="M550 1580 L620 1474 L690 1580 Z" fill="#EAF5FD" stroke="#7DBDEA" stroke-width="3"/>
+    <rect x="80" y="1438" width="1080" height="184" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5" />
+    <path d="M130 1544 q25 -34 50 0 t50 0 t50 0 t50 0 t50 0 t50 0" fill="none" stroke="#EE8FB0" stroke-width="3" />
+    <line x1="430" y1="1544" x2="592" y2="1522" stroke="#7F93A8" stroke-width="3.5" />
+    <path d="M550 1580 L620 1474 L690 1580 Z" fill="#EAF5FD" stroke="#7DBDEA" stroke-width="3" />
     <g id="motif-prism-rays" fill="none" stroke-width="3" stroke-linecap="round">
-      <path d="M592 1522 L650.0 1516.0 L1090 1490" stroke="#E57373"/>
-      <path d="M592 1522 L651.5 1518.6 L1090 1503" stroke="#F2A65A"/>
-      <path d="M592 1522 L653.0 1521.2 L1090 1516" stroke="#EBCB4A"/>
-      <path d="M592 1522 L654.5 1523.8 L1090 1529" stroke="#7CCF8A"/>
-      <path d="M592 1522 L656.0 1526.4 L1090 1542" stroke="#6BAEE8"/>
-      <path d="M592 1522 L657.5 1529.0 L1090 1555" stroke="#7C83DB"/>
-      <path d="M592 1522 L659.0 1531.6 L1090 1568" stroke="#B085E0"/>
+      <path d="M592 1522 L650.0 1516.0 L1090 1490" stroke="#E57373" />
+      <path d="M592 1522 L651.5 1518.6 L1090 1503" stroke="#F2A65A" />
+      <path d="M592 1522 L653.0 1521.2 L1090 1516" stroke="#EBCB4A" />
+      <path d="M592 1522 L654.5 1523.8 L1090 1529" stroke="#7CCF8A" />
+      <path d="M592 1522 L656.0 1526.4 L1090 1542" stroke="#6BAEE8" />
+      <path d="M592 1522 L657.5 1529.0 L1090 1555" stroke="#7C83DB" />
+      <path d="M592 1522 L659.0 1531.6 L1090 1568" stroke="#B085E0" />
     </g>
   </g>
 
   <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
-    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2" />
     <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
-    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5" />
     <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">14</text>
   </g>
 </svg>
