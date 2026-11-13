@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" lang="en-IN" data-pptx-page-role="content" font-family="Arial" font-size="24">
+  <defs>
+    <linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCEFFB"/>
+      <stop offset="100%" stop-color="#FCE4EC"/>
+    </linearGradient>
+    <marker id="arRose" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="12" refX="14" refY="6" orient="auto">
+      <polygon points="0,0 16,6 0,12" fill="#D95C86"/>
+    </marker>
+  </defs>
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="page-frame" data-pptx-role="decoration" data-pptx-bounds="30 30 1180 1694">
+    <rect x="30" y="30" width="1180" height="1694" rx="24" fill="none" stroke="#A7D3F2" stroke-width="3"/>
+    <rect x="44" y="44" width="1152" height="1666" rx="14" fill="none" stroke="#F6BFD0" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="60" r="6" fill="#A7D3F2"/>
+    <circle cx="60" cy="1694" r="6" fill="#A7D3F2"/>
+    <circle cx="1180" cy="1694" r="6" fill="#A7D3F2"/>
+  </g>
+  <g id="page-header" data-pptx-role="header" data-pptx-bounds="80 70 1080 100">
+    <rect x="80" y="70" width="1080" height="100" rx="18" fill="url(#hdr)"/>
+    <circle cx="140" cy="120" r="34" fill="#FFFFFF"/>
+    <use data-icon="phosphor-duotone/books" x="118" y="98" width="44" height="44" fill="#5AA9E0"/>
+    <text x="196" y="106" font-size="17" fill="#5C7F9F">PHYSICS INVESTIGATORY PROJECT  ·  CLASS XII</text>
+    <text x="196" y="150" font-family="Georgia" font-size="40" font-weight="bold" fill="#2C5F8A">Bibliography</text>
+    <path d="M920 120 H1136" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M924 120 q13 -40 26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0 t26 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+  </g>
+
+  <g id="lead-bibliography" data-pptx-bounds="80 205 1080 56">
+    <text x="80" y="240" fill="#2F3B4A">The following books and websites were consulted in preparing this project.</text>
+  </g>
+
+  <g id="bib-book-open" data-pptx-bounds="80 270 1080 258">
+    <rect x="80" y="270" width="1080" height="258" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <use data-icon="phosphor-duotone/book-open" x="102" y="284" width="40" height="40" fill="#5AA9E0"/>
+    <text x="156" y="313" font-family="Georgia" font-size="25" font-weight="bold" fill="#2C5F8A">Textbooks and Laboratory Manual</text>
+    <g id="bib-book-open-numbers" font-size="21" font-weight="bold" fill="#C2527C" text-anchor="end">
+      <text x="132" y="362">1.</text>
+      <text x="132" y="424">2.</text>
+      <text x="132" y="486">3.</text>
+    </g>
+    <g id="bib-book-open-entries" font-size="21">
+      <text x="148" y="362"><tspan font-weight="bold" fill="#2F3B4A">NCERT, <tspan font-style="italic">Physics: Textbook for Class XII, Part I</tspan></tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">National Council of Educational Research and Training, New Delhi (Electromagnetic Waves).</tspan></text>
+      <text x="148" y="424"><tspan font-weight="bold" fill="#2F3B4A">NCERT, <tspan font-style="italic">Physics: Textbook for Class XII, Part II</tspan></tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">National Council of Educational Research and Training, New Delhi (Ray Optics; Wave Optics).</tspan></text>
+      <text x="148" y="486"><tspan font-weight="bold" fill="#2F3B4A">NCERT, <tspan font-style="italic">Laboratory Manual: Physics, Class XII</tspan></tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">National Council of Educational Research and Training, New Delhi.</tspan></text>
+    </g>
+  </g>
+
+  <g id="bib-graduation-cap" data-pptx-bounds="80 544 1080 258">
+    <rect x="80" y="544" width="1080" height="258" rx="16" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <use data-icon="phosphor-duotone/graduation-cap" x="102" y="558" width="40" height="40" fill="#D9739A"/>
+    <text x="156" y="587" font-family="Georgia" font-size="25" font-weight="bold" fill="#B8456F">NCERT and CBSE Resources</text>
+    <g id="bib-graduation-cap-numbers" font-size="21" font-weight="bold" fill="#C2527C" text-anchor="end">
+      <text x="132" y="636">4.</text>
+      <text x="132" y="698">5.</text>
+      <text x="132" y="760">6.</text>
+    </g>
+    <g id="bib-graduation-cap-entries" font-size="21">
+      <text x="148" y="636"><tspan font-weight="bold" fill="#2F3B4A">NCERT official website</tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">ncert.nic.in (online textbooks).</tspan></text>
+      <text x="148" y="698"><tspan font-weight="bold" fill="#2F3B4A">ePathshala</tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">epathshala.nic.in (digital textbooks and e-resources).</tspan></text>
+      <text x="148" y="760"><tspan font-weight="bold" fill="#2F3B4A">CBSE, <tspan font-style="italic">Curriculum for Senior Secondary: Physics (Code 042)</tspan></tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">Central Board of Secondary Education, cbseacademic.nic.in.</tspan></text>
+    </g>
+  </g>
+
+  <g id="bib-books" data-pptx-bounds="80 818 1080 258">
+    <rect x="80" y="818" width="1080" height="258" rx="16" fill="#F3EFFC" stroke="#D3C8EE" stroke-width="1.5"/>
+    <use data-icon="phosphor-duotone/books" x="102" y="832" width="40" height="40" fill="#A593D6"/>
+    <text x="156" y="861" font-family="Georgia" font-size="25" font-weight="bold" fill="#6E5BB0">Reference Books</text>
+    <g id="bib-books-numbers" font-size="21" font-weight="bold" fill="#C2527C" text-anchor="end">
+      <text x="132" y="910">7.</text>
+      <text x="132" y="972">8.</text>
+      <text x="132" y="1034">9.</text>
+    </g>
+    <g id="bib-books-entries" font-size="21">
+      <text x="148" y="910"><tspan font-weight="bold" fill="#2F3B4A">H. C. Verma, <tspan font-style="italic">Concepts of Physics</tspan></tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">Bharati Bhawan Publishers.</tspan></text>
+      <text x="148" y="972"><tspan font-weight="bold" fill="#2F3B4A">D. Halliday, R. Resnick and J. Walker, <tspan font-style="italic">Fundamentals of Physics</tspan></tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">John Wiley &amp; Sons.</tspan></text>
+      <text x="148" y="1034"><tspan font-weight="bold" fill="#2F3B4A">S. L. Arora, <tspan font-style="italic">New Simplified Physics: A Reference Book for Class XII</tspan></tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">Dhanpat Rai &amp; Co.</tspan></text>
+    </g>
+  </g>
+
+  <g id="bib-globe" data-pptx-bounds="80 1092 1080 320">
+    <rect x="80" y="1092" width="1080" height="320" rx="16" fill="#EAF5FD" stroke="#B9DCF5" stroke-width="1.5"/>
+    <use data-icon="phosphor-duotone/globe" x="102" y="1106" width="40" height="40" fill="#5AA9E0"/>
+    <text x="156" y="1135" font-family="Georgia" font-size="25" font-weight="bold" fill="#2C5F8A">Educational Websites</text>
+    <g id="bib-globe-numbers" font-size="21" font-weight="bold" fill="#C2527C" text-anchor="end">
+      <text x="132" y="1184">10.</text>
+      <text x="132" y="1246">11.</text>
+      <text x="132" y="1308">12.</text>
+      <text x="132" y="1370">13.</text>
+    </g>
+    <g id="bib-globe-entries" font-size="21">
+      <text x="148" y="1184"><tspan font-weight="bold" fill="#2F3B4A">Khan Academy</tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">khanacademy.org (Physics: light waves and geometric optics).</tspan></text>
+      <text x="148" y="1246"><tspan font-weight="bold" fill="#2F3B4A">HyperPhysics, Georgia State University</tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">hyperphysics.phy-astr.gsu.edu (Light and Vision).</tspan></text>
+      <text x="148" y="1308"><tspan font-weight="bold" fill="#2F3B4A">The Physics Classroom</tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">physicsclassroom.com (Light Waves and Colour; Refraction).</tspan></text>
+      <text x="148" y="1370"><tspan font-weight="bold" fill="#2F3B4A">NASA Science</tspan><tspan x="148" dy="26" font-size="19" fill="#4A5D72">science.nasa.gov (Tour of the Electromagnetic Spectrum).</tspan></text>
+    </g>
+  </g>
+
+  <g id="motif-prism" data-pptx-bounds="80 1428 1080 170">
+    <rect x="80" y="1428" width="1080" height="170" rx="16" fill="#F4FAFE" stroke="#CFE6F7" stroke-width="1.5"/>
+    <path d="M130 1527 q25 -34 50 0 t50 0 t50 0 t50 0 t50 0 t50 0" fill="none" stroke="#EE8FB0" stroke-width="3"/>
+    <line x1="430" y1="1527" x2="592" y2="1505" stroke="#7F93A8" stroke-width="3.5"/>
+    <path d="M550 1563 L620 1457 L690 1563 Z" fill="#EAF5FD" stroke="#7DBDEA" stroke-width="3"/>
+    <g id="motif-prism-rays" fill="none" stroke-width="3" stroke-linecap="round">
+      <path d="M592 1505 L650.0 1499.0 L1090 1473" stroke="#E57373"/>
+      <path d="M592 1505 L651.5 1501.6 L1090 1486" stroke="#F2A65A"/>
+      <path d="M592 1505 L653.0 1504.2 L1090 1499" stroke="#EBCB4A"/>
+      <path d="M592 1505 L654.5 1506.8 L1090 1512" stroke="#7CCF8A"/>
+      <path d="M592 1505 L656.0 1509.4 L1090 1525" stroke="#6BAEE8"/>
+      <path d="M592 1505 L657.5 1512.0 L1090 1538" stroke="#7C83DB"/>
+      <path d="M592 1505 L659.0 1514.6 L1090 1551" stroke="#B085E0"/>
+    </g>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="80 1650 1080 56">
+    <line x1="80" y1="1654" x2="1160" y2="1654" stroke="#A7D3F2" stroke-width="2"/>
+    <text x="80" y="1691" font-size="18" fill="#6C8198">Optics &amp; Wave Nature of Light  ·  Physics Investigatory Project</text>
+    <circle cx="1136" cy="1684" r="22" fill="#FDEEF3" stroke="#F6BFD0" stroke-width="1.5"/>
+    <text x="1136" y="1691" text-anchor="middle" font-size="20" font-weight="bold" fill="#C2527C">15</text>
+  </g>
+</svg>
